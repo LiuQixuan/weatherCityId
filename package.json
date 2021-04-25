@@ -1,0 +1,38 @@
+{
+  "name": "weathercityid",
+  "version": "0.0.1",
+  "description": "中国行政区编码和天气api城市编码",
+  "main": "index.js",
+  "scripts": {
+    "run-test": "node ./test/test.js",
+    "build-test": "tsc -p ./test/tsconfig.json",
+    "re-test": "tsc -p ./test/tsconfig.json&&node ./test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LiuQixuan/weatherCityId.git"
+  },
+  "keywords": [
+    "China city code",
+    "China city code",
+    "city id",
+    "city code",
+    "weather city code",
+    "weather city id",
+    "行政区编码",
+    "天气编码",
+    "中国天气网api",
+    "中国天气网城市编码",
+    "中国天气网城市编号",
+    "城市id"
+  ],
+  "author": "LiuQixuan@Aiusoft",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LiuQixuan/weatherCityId/issues"
+  },
+  "homepage": "https://github.com/LiuQixuan/weatherCityId#readme",
+  "devDependencies": {
+    "typescript": "^4.2.4"
+  }
+}
