@@ -1,4 +1,4 @@
-# 中国行政区域数据+天气api的城市编号/中文名称
+# 中国行政区域数据+天气api的城市编号/China administrative area data + weather api city code/
 
 # 中国行政区域数据+天气api的城市编号
 
