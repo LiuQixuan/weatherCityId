@@ -49,6 +49,26 @@ for (const key in weatherCity) {
 }
 
 ```
+
+## 构建方法
+1. 数据准备阶段
+   > 中国行政区数据来自[china-area-data](https://www.npmjs.com/package/china-area-data)
+
+   > weatherCityId来自中国天气网
+2. pretreat阶段
+   >pretreat文件夹里是对相关数据的预处理脚本,主要为了筛选重复数据,筛选城市名中带有少数民族名称,及相关数据的统计,格式转换
+3. build阶段
+   >src文件夹的`main.js`为主要功能脚本<br/>
+   >`data.js`为原始行政区数据<br/>
+   >`cityNameWeatherId.js` 为weatherCityId相关数据<br/>
+   >cityNameWeatherIdPolyfill.js 为weatherCityId重复名称以及例外数据<br/>
+   >`minoritySet.js`为少数民族名称数据
+4. 人工审查阶段
+   >配合test文件夹做测试,然后执行 `node ./src/main.js`生成数据到output,文件名为index.json<br/>
+   >人工粗略审查
+5. 发布
+   > 将`index.json`添加exports相关代码,格式化后修改名称为`index.js`,剪切到根目录,及完成所有构建流程
+
 ## 注意
 
 >由于行政区编号和城市天气代码不是绝对一一对照关系,可能存在多个行政区对应一个天气编码的情况
@@ -65,4 +85,5 @@ for (const key in weatherCity) {
 ## 历史版本
 
 -  ✅v0.0.1 发布weatherCityId包,实现基本功能
+-  ✅v0.0.2 修复部分bug,修复单字城市名称,修复大部分少数民族城市名的简写形式
 -  🟩v0.0.X 添加更多支持,优化算法,修复潜在BUG

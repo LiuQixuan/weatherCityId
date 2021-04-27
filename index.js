@@ -97,7 +97,7 @@ const data = {
     },
     "450000": {
       "cityName": "广西壮族自治区",
-      "unofficeCityName": "广西壮族",
+      "unofficeCityName": "广西",
       "weatherId": 101300101
     },
     "460000": {
@@ -147,7 +147,7 @@ const data = {
     },
     "640000": {
       "cityName": "宁夏回族自治区",
-      "unofficeCityName": "宁夏回族",
+      "unofficeCityName": "宁夏",
       "weatherId": 101170101
     },
     "650000": {
@@ -181,12 +181,12 @@ const data = {
   "110100": {
     "110101": {
       "cityName": "东城区",
-      "unofficeCityName": "东",
+      "unofficeCityName": "东城区",
       "weatherId": 101010100
     },
     "110102": {
       "cityName": "西城区",
-      "unofficeCityName": "西",
+      "unofficeCityName": "西城区",
       "weatherId": 101010100
     },
     "110105": {
@@ -439,7 +439,7 @@ const data = {
     },
     "130109": {
       "cityName": "藁城区",
-      "unofficeCityName": "藁",
+      "unofficeCityName": "藁城区",
       "weatherId": 101090101
     },
     "130110": {
@@ -449,7 +449,7 @@ const data = {
     },
     "130111": {
       "cityName": "栾城区",
-      "unofficeCityName": "栾",
+      "unofficeCityName": "栾城区",
       "weatherId": 101090101
     },
     "130121": {
@@ -504,12 +504,12 @@ const data = {
     },
     "130133": {
       "cityName": "赵县",
-      "unofficeCityName": "赵",
-      "weatherId": 101090101
+      "unofficeCityName": "赵县",
+      "weatherId": 101090113
     },
     "130171": {
       "cityName": "石家庄高新技术产业开发区",
-      "unofficeCityName": "石家庄高新技术产业开发",
+      "unofficeCityName": "石家庄",
       "weatherId": 101090101
     },
     "130172": {
@@ -596,22 +596,22 @@ const data = {
     },
     "130271": {
       "cityName": "河北唐山芦台经济开发区",
-      "unofficeCityName": "河北唐山芦台经济开发",
+      "unofficeCityName": "河北唐山芦台",
       "weatherId": 101090501
     },
     "130272": {
       "cityName": "唐山市汉沽管理区",
-      "unofficeCityName": "唐山汉沽管理",
+      "unofficeCityName": "唐山汉沽管理区",
       "weatherId": 101090501
     },
     "130273": {
       "cityName": "唐山高新技术产业开发区",
-      "unofficeCityName": "唐山高新技术产业开发",
+      "unofficeCityName": "唐山",
       "weatherId": 101090501
     },
     "130274": {
       "cityName": "河北唐山海港经济开发区",
-      "unofficeCityName": "河北唐山海港经济开发",
+      "unofficeCityName": "河北唐山海港",
       "weatherId": 101090501
     },
     "130281": {
@@ -658,8 +658,8 @@ const data = {
     },
     "130321": {
       "cityName": "青龙满族自治县",
-      "unofficeCityName": "青龙满族",
-      "weatherId": 101091101
+      "unofficeCityName": "青龙",
+      "weatherId": 101091102
     },
     "130322": {
       "cityName": "昌黎县",
@@ -673,7 +673,7 @@ const data = {
     },
     "130371": {
       "cityName": "秦皇岛市经济技术开发区",
-      "unofficeCityName": "秦皇岛经济技术开发",
+      "unofficeCityName": "秦皇岛经济技术开发区",
       "weatherId": 101091101
     },
     "130372": {
@@ -735,18 +735,18 @@ const data = {
     },
     "130426": {
       "cityName": "涉县",
-      "unofficeCityName": "涉",
-      "weatherId": 101091001
+      "unofficeCityName": "涉县",
+      "weatherId": 101091006
     },
     "130427": {
       "cityName": "磁县",
-      "unofficeCityName": "磁",
-      "weatherId": 101091001
+      "unofficeCityName": "磁县",
+      "weatherId": 101091007
     },
     "130430": {
       "cityName": "邱县",
-      "unofficeCityName": "邱",
-      "weatherId": 101091001
+      "unofficeCityName": "邱县",
+      "weatherId": 101091010
     },
     "130431": {
       "cityName": "鸡泽县",
@@ -765,8 +765,8 @@ const data = {
     },
     "130434": {
       "cityName": "魏县",
-      "unofficeCityName": "魏",
-      "weatherId": 101091001
+      "unofficeCityName": "魏县",
+      "weatherId": 101091014
     },
     "130435": {
       "cityName": "曲周县",
@@ -775,7 +775,7 @@ const data = {
     },
     "130471": {
       "cityName": "邯郸经济技术开发区",
-      "unofficeCityName": "邯郸经济技术开发",
+      "unofficeCityName": "邯郸",
       "weatherId": 101091001
     },
     "130473": {
@@ -832,8 +832,8 @@ const data = {
     },
     "130526": {
       "cityName": "任县",
-      "unofficeCityName": "任",
-      "weatherId": 101090901
+      "unofficeCityName": "任县",
+      "weatherId": 101090918
     },
     "130527": {
       "cityName": "南和县",
@@ -867,8 +867,8 @@ const data = {
     },
     "130533": {
       "cityName": "威县",
-      "unofficeCityName": "威",
-      "weatherId": 101090901
+      "unofficeCityName": "威县",
+      "weatherId": 101090913
     },
     "130534": {
       "cityName": "清河县",
@@ -882,7 +882,7 @@ const data = {
     },
     "130571": {
       "cityName": "河北邢台经济开发区",
-      "unofficeCityName": "河北邢台经济开发",
+      "unofficeCityName": "河北邢台",
       "weatherId": 101090901
     },
     "130581": {
@@ -914,7 +914,7 @@ const data = {
     },
     "130607": {
       "cityName": "满城区",
-      "unofficeCityName": "满",
+      "unofficeCityName": "满城区",
       "weatherId": 101090201
     },
     "130608": {
@@ -944,8 +944,8 @@ const data = {
     },
     "130627": {
       "cityName": "唐县",
-      "unofficeCityName": "唐",
-      "weatherId": 101090201
+      "unofficeCityName": "唐县",
+      "weatherId": 101090205
     },
     "130628": {
       "cityName": "高阳县",
@@ -974,8 +974,8 @@ const data = {
     },
     "130633": {
       "cityName": "易县",
-      "unofficeCityName": "易",
-      "weatherId": 101090201
+      "unofficeCityName": "易县",
+      "weatherId": 101090212
     },
     "130634": {
       "cityName": "曲阳县",
@@ -984,8 +984,8 @@ const data = {
     },
     "130635": {
       "cityName": "蠡县",
-      "unofficeCityName": "蠡",
-      "weatherId": 101090201
+      "unofficeCityName": "蠡县",
+      "weatherId": 101090215
     },
     "130636": {
       "cityName": "顺平县",
@@ -999,12 +999,12 @@ const data = {
     },
     "130638": {
       "cityName": "雄县",
-      "unofficeCityName": "雄",
-      "weatherId": 101090201
+      "unofficeCityName": "雄县",
+      "weatherId": 101090217
     },
     "130671": {
       "cityName": "保定高新技术产业开发区",
-      "unofficeCityName": "保定高新技术产业开发",
+      "unofficeCityName": "保定",
       "weatherId": 101090201
     },
     "130672": {
@@ -1091,8 +1091,8 @@ const data = {
     },
     "130726": {
       "cityName": "蔚县",
-      "unofficeCityName": "蔚",
-      "weatherId": 101090301
+      "unofficeCityName": "蔚县",
+      "weatherId": 101090307
     },
     "130727": {
       "cityName": "阳原县",
@@ -1121,17 +1121,17 @@ const data = {
     },
     "130771": {
       "cityName": "张家口经济开发区",
-      "unofficeCityName": "张家口经济开发",
+      "unofficeCityName": "张家口",
       "weatherId": 101090301
     },
     "130772": {
       "cityName": "张家口市察北管理区",
-      "unofficeCityName": "张家口察北管理",
+      "unofficeCityName": "张家口察北管理区",
       "weatherId": 101090301
     },
     "130773": {
       "cityName": "张家口市塞北管理区",
-      "unofficeCityName": "张家口塞北管理",
+      "unofficeCityName": "张家口塞北管理区",
       "weatherId": 101090301
     }
   },
@@ -1178,22 +1178,22 @@ const data = {
     },
     "130826": {
       "cityName": "丰宁满族自治县",
-      "unofficeCityName": "丰宁满族",
-      "weatherId": 101090402
+      "unofficeCityName": "丰宁",
+      "weatherId": 101090408
     },
     "130827": {
       "cityName": "宽城满族自治县",
-      "unofficeCityName": "宽城满族",
-      "weatherId": 101090402
+      "unofficeCityName": "宽城",
+      "weatherId": 101090409
     },
     "130828": {
       "cityName": "围场满族蒙古族自治县",
-      "unofficeCityName": "围场满族蒙古族",
-      "weatherId": 101090402
+      "unofficeCityName": "围场",
+      "weatherId": 101090410
     },
     "130871": {
       "cityName": "承德高新技术产业开发区",
-      "unofficeCityName": "承德高新技术产业开发",
+      "unofficeCityName": "承德",
       "weatherId": 101090402
     },
     "130881": {
@@ -1220,13 +1220,13 @@ const data = {
     },
     "130921": {
       "cityName": "沧县",
-      "unofficeCityName": "沧",
+      "unofficeCityName": "沧县",
       "weatherId": 101090701
     },
     "130922": {
       "cityName": "青县",
-      "unofficeCityName": "青",
-      "weatherId": 101090701
+      "unofficeCityName": "青县",
+      "weatherId": 101090702
     },
     "130923": {
       "cityName": "东光县",
@@ -1260,22 +1260,22 @@ const data = {
     },
     "130929": {
       "cityName": "献县",
-      "unofficeCityName": "献",
-      "weatherId": 101090701
+      "unofficeCityName": "献县",
+      "weatherId": 101090709
     },
     "130930": {
       "cityName": "孟村回族自治县",
-      "unofficeCityName": "孟村回族",
-      "weatherId": 101090701
+      "unofficeCityName": "孟村",
+      "weatherId": 101090710
     },
     "130971": {
       "cityName": "河北沧州经济开发区",
-      "unofficeCityName": "河北沧州经济开发",
+      "unofficeCityName": "河北沧州",
       "weatherId": 101090701
     },
     "130972": {
       "cityName": "沧州高新技术产业开发区",
-      "unofficeCityName": "沧州高新技术产业开发",
+      "unofficeCityName": "沧州",
       "weatherId": 101090701
     },
     "130973": {
@@ -1347,12 +1347,12 @@ const data = {
     },
     "131028": {
       "cityName": "大厂回族自治县",
-      "unofficeCityName": "大厂回族",
-      "weatherId": 101090601
+      "unofficeCityName": "大厂",
+      "weatherId": 101090607
     },
     "131071": {
       "cityName": "廊坊经济技术开发区",
-      "unofficeCityName": "廊坊经济技术开发",
+      "unofficeCityName": "廊坊",
       "weatherId": 101090601
     },
     "131081": {
@@ -1374,7 +1374,7 @@ const data = {
     },
     "131102": {
       "cityName": "桃城区",
-      "unofficeCityName": "桃",
+      "unofficeCityName": "桃城区",
       "weatherId": 101090801
     },
     "131103": {
@@ -1414,8 +1414,8 @@ const data = {
     },
     "131127": {
       "cityName": "景县",
-      "unofficeCityName": "景",
-      "weatherId": 101090801
+      "unofficeCityName": "景县",
+      "weatherId": 101090808
     },
     "131128": {
       "cityName": "阜城县",
@@ -1424,7 +1424,7 @@ const data = {
     },
     "131171": {
       "cityName": "河北衡水高新技术产业开发区",
-      "unofficeCityName": "河北衡水高新技术产业开发",
+      "unofficeCityName": "河北衡水",
       "weatherId": 101090801
     },
     "131172": {
@@ -1570,7 +1570,7 @@ const data = {
     },
     "140213": {
       "cityName": "平城区",
-      "unofficeCityName": "平",
+      "unofficeCityName": "平城区",
       "weatherId": 101100201
     },
     "140214": {
@@ -1615,7 +1615,7 @@ const data = {
     },
     "140271": {
       "cityName": "山西大同经济开发区",
-      "unofficeCityName": "山西大同经济开发",
+      "unofficeCityName": "山西大同",
       "weatherId": 101100201
     }
   },
@@ -1627,17 +1627,17 @@ const data = {
     },
     "140302": {
       "cityName": "城区",
-      "unofficeCityName": "阳泉",
+      "unofficeCityName": "城区",
       "weatherId": 101100301
     },
     "140303": {
       "cityName": "矿区",
-      "unofficeCityName": "矿",
+      "unofficeCityName": "矿区",
       "weatherId": 101100301
     },
     "140311": {
       "cityName": "郊区",
-      "unofficeCityName": "郊",
+      "unofficeCityName": "郊区",
       "weatherId": 101100301
     },
     "140321": {
@@ -1647,8 +1647,8 @@ const data = {
     },
     "140322": {
       "cityName": "盂县",
-      "unofficeCityName": "盂",
-      "weatherId": 101100301
+      "unofficeCityName": "盂县",
+      "weatherId": 101100302
     }
   },
   "140400": {
@@ -1674,7 +1674,7 @@ const data = {
     },
     "140406": {
       "cityName": "潞城区",
-      "unofficeCityName": "潞",
+      "unofficeCityName": "潞城区",
       "weatherId": 101100501
     },
     "140423": {
@@ -1709,8 +1709,8 @@ const data = {
     },
     "140430": {
       "cityName": "沁县",
-      "unofficeCityName": "沁",
-      "weatherId": 101100501
+      "unofficeCityName": "沁县",
+      "weatherId": 101100508
     },
     "140431": {
       "cityName": "沁源县",
@@ -1719,7 +1719,7 @@ const data = {
     },
     "140471": {
       "cityName": "山西长治高新技术产业园区",
-      "unofficeCityName": "山西长治高新技术产业园",
+      "unofficeCityName": "山西长治",
       "weatherId": 101100501
     }
   },
@@ -1731,7 +1731,7 @@ const data = {
     },
     "140502": {
       "cityName": "城区",
-      "unofficeCityName": "晋城",
+      "unofficeCityName": "城区",
       "weatherId": 101100601
     },
     "140521": {
@@ -1768,7 +1768,7 @@ const data = {
     },
     "140602": {
       "cityName": "朔城区",
-      "unofficeCityName": "朔",
+      "unofficeCityName": "朔城区",
       "weatherId": 101100901
     },
     "140603": {
@@ -1783,8 +1783,8 @@ const data = {
     },
     "140622": {
       "cityName": "应县",
-      "unofficeCityName": "应",
-      "weatherId": 101100901
+      "unofficeCityName": "应县",
+      "weatherId": 101100905
     },
     "140623": {
       "cityName": "右玉县",
@@ -1793,7 +1793,7 @@ const data = {
     },
     "140671": {
       "cityName": "山西朔州经济开发区",
-      "unofficeCityName": "山西朔州经济开发",
+      "unofficeCityName": "山西朔州",
       "weatherId": 101100901
     },
     "140681": {
@@ -1845,8 +1845,8 @@ const data = {
     },
     "140727": {
       "cityName": "祁县",
-      "unofficeCityName": "祁",
-      "weatherId": 101100401
+      "unofficeCityName": "祁县",
+      "weatherId": 101100409
     },
     "140728": {
       "cityName": "平遥县",
@@ -1902,8 +1902,8 @@ const data = {
     },
     "140826": {
       "cityName": "绛县",
-      "unofficeCityName": "绛",
-      "weatherId": 101100801
+      "unofficeCityName": "绛县",
+      "weatherId": 101100807
     },
     "140827": {
       "cityName": "垣曲县",
@@ -1912,8 +1912,8 @@ const data = {
     },
     "140828": {
       "cityName": "夏县",
-      "unofficeCityName": "夏",
-      "weatherId": 101100801
+      "unofficeCityName": "夏县",
+      "weatherId": 101100812
     },
     "140829": {
       "cityName": "平陆县",
@@ -1959,8 +1959,8 @@ const data = {
     },
     "140923": {
       "cityName": "代县",
-      "unofficeCityName": "代",
-      "weatherId": 101101001
+      "unofficeCityName": "代县",
+      "weatherId": 101101008
     },
     "140924": {
       "cityName": "繁峙县",
@@ -2051,8 +2051,8 @@ const data = {
     },
     "141025": {
       "cityName": "古县",
-      "unofficeCityName": "古",
-      "weatherId": 101100701
+      "unofficeCityName": "古县",
+      "weatherId": 101100717
     },
     "141026": {
       "cityName": "安泽县",
@@ -2066,8 +2066,8 @@ const data = {
     },
     "141028": {
       "cityName": "吉县",
-      "unofficeCityName": "吉",
-      "weatherId": 101100701
+      "unofficeCityName": "吉县",
+      "weatherId": 101100706
     },
     "141029": {
       "cityName": "乡宁县",
@@ -2081,8 +2081,8 @@ const data = {
     },
     "141031": {
       "cityName": "隰县",
-      "unofficeCityName": "隰",
-      "weatherId": 101100701
+      "unofficeCityName": "隰县",
+      "weatherId": 101100704
     },
     "141032": {
       "cityName": "永和县",
@@ -2091,8 +2091,8 @@ const data = {
     },
     "141033": {
       "cityName": "蒲县",
-      "unofficeCityName": "蒲",
-      "weatherId": 101100701
+      "unofficeCityName": "蒲县",
+      "weatherId": 101100708
     },
     "141034": {
       "cityName": "汾西县",
@@ -2133,13 +2133,13 @@ const data = {
     },
     "141123": {
       "cityName": "兴县",
-      "unofficeCityName": "兴",
-      "weatherId": 101101100
+      "unofficeCityName": "兴县",
+      "weatherId": 101101103
     },
     "141124": {
       "cityName": "临县",
-      "unofficeCityName": "临",
-      "weatherId": 101101100
+      "unofficeCityName": "临县",
+      "weatherId": 101101102
     },
     "141125": {
       "cityName": "柳林县",
@@ -2153,8 +2153,8 @@ const data = {
     },
     "141127": {
       "cityName": "岚县",
-      "unofficeCityName": "岚",
-      "weatherId": 101101100
+      "unofficeCityName": "岚县",
+      "weatherId": 101101104
     },
     "141128": {
       "cityName": "方山县",
@@ -2252,7 +2252,7 @@ const data = {
     },
     "150102": {
       "cityName": "新城区",
-      "unofficeCityName": "新",
+      "unofficeCityName": "新城区",
       "weatherId": 101080101
     },
     "150103": {
@@ -2297,12 +2297,12 @@ const data = {
     },
     "150171": {
       "cityName": "呼和浩特金海工业园区",
-      "unofficeCityName": "呼和浩特金海工业园",
+      "unofficeCityName": "呼和浩特金海",
       "weatherId": 101080101
     },
     "150172": {
       "cityName": "呼和浩特经济技术开发区",
-      "unofficeCityName": "呼和浩特经济技术开发",
+      "unofficeCityName": "呼和浩特",
       "weatherId": 101080101
     }
   },
@@ -2359,7 +2359,7 @@ const data = {
     },
     "150271": {
       "cityName": "包头稀土高新技术产业开发区",
-      "unofficeCityName": "包头稀土高新技术产业开发",
+      "unofficeCityName": "包头稀土",
       "weatherId": 101080201
     }
   },
@@ -2495,7 +2495,7 @@ const data = {
     },
     "150571": {
       "cityName": "通辽经济技术开发区",
-      "unofficeCityName": "通辽经济技术开发",
+      "unofficeCityName": "通辽",
       "weatherId": 101080501
     },
     "150581": {
@@ -2579,7 +2579,7 @@ const data = {
     },
     "150722": {
       "cityName": "莫力达瓦达斡尔族自治旗",
-      "unofficeCityName": "莫力达瓦达斡尔族自治旗",
+      "unofficeCityName": "莫力达瓦",
       "weatherId": 101081000
     },
     "150723": {
@@ -2854,7 +2854,7 @@ const data = {
     },
     "152971": {
       "cityName": "内蒙古阿拉善经济开发区",
-      "unofficeCityName": "内蒙古阿拉善经济开发",
+      "unofficeCityName": "内蒙古阿拉善",
       "weatherId": 101080101
     }
   },
@@ -3092,8 +3092,8 @@ const data = {
     },
     "210323": {
       "cityName": "岫岩满族自治县",
-      "unofficeCityName": "岫岩满族",
-      "weatherId": 101070301
+      "unofficeCityName": "岫岩",
+      "weatherId": 101070303
     },
     "210381": {
       "cityName": "海城市",
@@ -3124,7 +3124,7 @@ const data = {
     },
     "210411": {
       "cityName": "顺城区",
-      "unofficeCityName": "顺",
+      "unofficeCityName": "顺城区",
       "weatherId": 101070401
     },
     "210421": {
@@ -3134,13 +3134,13 @@ const data = {
     },
     "210422": {
       "cityName": "新宾满族自治县",
-      "unofficeCityName": "新宾满族",
+      "unofficeCityName": "新宾",
       "weatherId": 101070401
     },
     "210423": {
       "cityName": "清原满族自治县",
-      "unofficeCityName": "清原满族",
-      "weatherId": 101070401
+      "unofficeCityName": "清原",
+      "weatherId": 101070403
     }
   },
   "210500": {
@@ -3171,13 +3171,13 @@ const data = {
     },
     "210521": {
       "cityName": "本溪满族自治县",
-      "unofficeCityName": "本溪满族",
+      "unofficeCityName": "本溪",
       "weatherId": 101070501
     },
     "210522": {
       "cityName": "桓仁满族自治县",
-      "unofficeCityName": "桓仁满族",
-      "weatherId": 101070501
+      "unofficeCityName": "桓仁",
+      "weatherId": 101070504
     }
   },
   "210600": {
@@ -3203,8 +3203,8 @@ const data = {
     },
     "210624": {
       "cityName": "宽甸满族自治县",
-      "unofficeCityName": "宽甸满族",
-      "weatherId": 101070601
+      "unofficeCityName": "宽甸",
+      "weatherId": 101070603
     },
     "210681": {
       "cityName": "东港市",
@@ -3245,8 +3245,8 @@ const data = {
     },
     "210727": {
       "cityName": "义县",
-      "unofficeCityName": "义",
-      "weatherId": 101070701
+      "unofficeCityName": "义县",
+      "weatherId": 101070704
     },
     "210781": {
       "cityName": "凌海市",
@@ -3272,7 +3272,7 @@ const data = {
     },
     "210803": {
       "cityName": "西市区",
-      "unofficeCityName": "西",
+      "unofficeCityName": "西区",
       "weatherId": 101070801
     },
     "210804": {
@@ -3329,7 +3329,7 @@ const data = {
     },
     "210921": {
       "cityName": "阜新蒙古族自治县",
-      "unofficeCityName": "阜新蒙古族",
+      "unofficeCityName": "阜新",
       "weatherId": 101070901
     },
     "210922": {
@@ -3462,7 +3462,7 @@ const data = {
     },
     "211303": {
       "cityName": "龙城区",
-      "unofficeCityName": "龙",
+      "unofficeCityName": "龙城区",
       "weatherId": 101071201
     },
     "211321": {
@@ -3477,7 +3477,7 @@ const data = {
     },
     "211324": {
       "cityName": "喀喇沁左翼蒙古族自治县",
-      "unofficeCityName": "喀喇沁左翼蒙古族",
+      "unofficeCityName": "喀喇沁左翼",
       "weatherId": 101071201
     },
     "211381": {
@@ -3571,8 +3571,8 @@ const data = {
     },
     "222400": {
       "cityName": "延边朝鲜族自治州",
-      "unofficeCityName": "延边朝鲜族",
-      "weatherId": 101060101
+      "unofficeCityName": "延边",
+      "weatherId": 101060312
     }
   },
   "220100": {
@@ -3588,7 +3588,7 @@ const data = {
     },
     "220103": {
       "cityName": "宽城区",
-      "unofficeCityName": "宽",
+      "unofficeCityName": "宽城区",
       "weatherId": 101060101
     },
     "220104": {
@@ -3623,22 +3623,22 @@ const data = {
     },
     "220171": {
       "cityName": "长春经济技术开发区",
-      "unofficeCityName": "长春经济技术开发",
+      "unofficeCityName": "长春",
       "weatherId": 101060101
     },
     "220172": {
       "cityName": "长春净月高新技术产业开发区",
-      "unofficeCityName": "长春净月高新技术产业开发",
+      "unofficeCityName": "长春净月",
       "weatherId": 101060101
     },
     "220173": {
       "cityName": "长春高新技术产业开发区",
-      "unofficeCityName": "长春高新技术产业开发",
+      "unofficeCityName": "长春",
       "weatherId": 101060101
     },
     "220174": {
       "cityName": "长春汽车经济技术开发区",
-      "unofficeCityName": "长春汽车经济技术开发",
+      "unofficeCityName": "长春汽车",
       "weatherId": 101060101
     },
     "220182": {
@@ -3685,12 +3685,12 @@ const data = {
     },
     "220271": {
       "cityName": "吉林经济开发区",
-      "unofficeCityName": "吉林经济开发",
+      "unofficeCityName": "吉林",
       "weatherId": 101060201
     },
     "220272": {
       "cityName": "吉林高新技术产业开发区",
-      "unofficeCityName": "吉林高新技术产业开发",
+      "unofficeCityName": "吉林",
       "weatherId": 101060201
     },
     "220273": {
@@ -3742,8 +3742,8 @@ const data = {
     },
     "220323": {
       "cityName": "伊通满族自治县",
-      "unofficeCityName": "伊通满族",
-      "weatherId": 101060401
+      "unofficeCityName": "伊通",
+      "weatherId": 101060405
     },
     "220381": {
       "cityName": "公主岭市",
@@ -3853,8 +3853,8 @@ const data = {
     },
     "220623": {
       "cityName": "长白朝鲜族自治县",
-      "unofficeCityName": "长白朝鲜族",
-      "weatherId": 101060901
+      "unofficeCityName": "长白",
+      "weatherId": 101060905
     },
     "220681": {
       "cityName": "临江市",
@@ -3875,7 +3875,7 @@ const data = {
     },
     "220721": {
       "cityName": "前郭尔罗斯蒙古族自治县",
-      "unofficeCityName": "前郭尔罗斯蒙古族",
+      "unofficeCityName": "前郭尔罗斯",
       "weatherId": 101060801
     },
     "220722": {
@@ -3890,7 +3890,7 @@ const data = {
     },
     "220771": {
       "cityName": "吉林松原经济开发区",
-      "unofficeCityName": "吉林松原经济开发",
+      "unofficeCityName": "吉林松原",
       "weatherId": 101060801
     },
     "220781": {
@@ -3922,7 +3922,7 @@ const data = {
     },
     "220871": {
       "cityName": "吉林白城经济开发区",
-      "unofficeCityName": "吉林白城经济开发",
+      "unofficeCityName": "吉林白城",
       "weatherId": 101060601
     },
     "220881": {
@@ -4088,12 +4088,12 @@ const data = {
     },
     "230112": {
       "cityName": "阿城区",
-      "unofficeCityName": "阿",
+      "unofficeCityName": "阿城区",
       "weatherId": 101050101
     },
     "230113": {
       "cityName": "双城区",
-      "unofficeCityName": "双",
+      "unofficeCityName": "双城区",
       "weatherId": 101050101
     },
     "230123": {
@@ -4108,8 +4108,8 @@ const data = {
     },
     "230125": {
       "cityName": "宾县",
-      "unofficeCityName": "宾",
-      "weatherId": 101050101
+      "unofficeCityName": "宾县",
+      "weatherId": 101050105
     },
     "230126": {
       "cityName": "巴彦县",
@@ -4180,7 +4180,7 @@ const data = {
     },
     "230208": {
       "cityName": "梅里斯达斡尔族区",
-      "unofficeCityName": "梅里斯达斡尔族",
+      "unofficeCityName": "梅里斯",
       "weatherId": 101050201
     },
     "230221": {
@@ -4423,12 +4423,12 @@ const data = {
     },
     "230624": {
       "cityName": "杜尔伯特蒙古族自治县",
-      "unofficeCityName": "杜尔伯特蒙古族",
+      "unofficeCityName": "杜尔伯特",
       "weatherId": 101050901
     },
     "230671": {
       "cityName": "大庆高新技术产业开发区",
-      "unofficeCityName": "大庆高新技术产业开发",
+      "unofficeCityName": "大庆",
       "weatherId": 101050901
     }
   },
@@ -4512,7 +4512,7 @@ const data = {
     },
     "230811": {
       "cityName": "郊区",
-      "unofficeCityName": "郊",
+      "unofficeCityName": "郊区",
       "weatherId": 101050401
     },
     "230822": {
@@ -4606,7 +4606,7 @@ const data = {
     },
     "231071": {
       "cityName": "牡丹江经济技术开发区",
-      "unofficeCityName": "牡丹江经济技术开发",
+      "unofficeCityName": "牡丹江",
       "weatherId": 101050301
     },
     "231081": {
@@ -5059,13 +5059,13 @@ const data = {
     },
     "320321": {
       "cityName": "丰县",
-      "unofficeCityName": "丰",
-      "weatherId": 101190801
+      "unofficeCityName": "丰县",
+      "weatherId": 101190803
     },
     "320322": {
       "cityName": "沛县",
-      "unofficeCityName": "沛",
-      "weatherId": 101190801
+      "unofficeCityName": "沛县",
+      "weatherId": 101190804
     },
     "320324": {
       "cityName": "睢宁县",
@@ -5074,7 +5074,7 @@ const data = {
     },
     "320371": {
       "cityName": "徐州经济技术开发区",
-      "unofficeCityName": "徐州经济技术开发",
+      "unofficeCityName": "徐州",
       "weatherId": 101190801
     },
     "320381": {
@@ -5143,7 +5143,7 @@ const data = {
     },
     "320507": {
       "cityName": "相城区",
-      "unofficeCityName": "相",
+      "unofficeCityName": "相城区",
       "weatherId": 101190401
     },
     "320508": {
@@ -5158,7 +5158,7 @@ const data = {
     },
     "320571": {
       "cityName": "苏州工业园区",
-      "unofficeCityName": "苏州工业园",
+      "unofficeCityName": "苏州",
       "weatherId": 101190401
     },
     "320581": {
@@ -5210,7 +5210,7 @@ const data = {
     },
     "320671": {
       "cityName": "南通经济技术开发区",
-      "unofficeCityName": "南通经济技术开发",
+      "unofficeCityName": "南通",
       "weatherId": 101190501
     },
     "320681": {
@@ -5272,12 +5272,12 @@ const data = {
     },
     "320771": {
       "cityName": "连云港经济技术开发区",
-      "unofficeCityName": "连云港经济技术开发",
+      "unofficeCityName": "连云港",
       "weatherId": 101191001
     },
     "320772": {
       "cityName": "连云港高新技术产业开发区",
-      "unofficeCityName": "连云港高新技术产业开发",
+      "unofficeCityName": "连云港",
       "weatherId": 101191001
     }
   },
@@ -5324,7 +5324,7 @@ const data = {
     },
     "320871": {
       "cityName": "淮安经济技术开发区",
-      "unofficeCityName": "淮安经济技术开发",
+      "unofficeCityName": "淮安",
       "weatherId": 101190901
     }
   },
@@ -5376,7 +5376,7 @@ const data = {
     },
     "320971": {
       "cityName": "盐城经济技术开发区",
-      "unofficeCityName": "盐城经济技术开发",
+      "unofficeCityName": "盐城",
       "weatherId": 101190701
     },
     "320981": {
@@ -5413,7 +5413,7 @@ const data = {
     },
     "321071": {
       "cityName": "扬州经济技术开发区",
-      "unofficeCityName": "扬州经济技术开发",
+      "unofficeCityName": "扬州",
       "weatherId": 101190601
     },
     "321081": {
@@ -5492,7 +5492,7 @@ const data = {
     },
     "321271": {
       "cityName": "泰州医药高新技术产业开发区",
-      "unofficeCityName": "泰州医药高新技术产业开发",
+      "unofficeCityName": "泰州医药",
       "weatherId": 101191201
     },
     "321281": {
@@ -5519,7 +5519,7 @@ const data = {
     },
     "321302": {
       "cityName": "宿城区",
-      "unofficeCityName": "宿",
+      "unofficeCityName": "宿城区",
       "weatherId": 101191301
     },
     "321311": {
@@ -5544,7 +5544,7 @@ const data = {
     },
     "321371": {
       "cityName": "宿迁经济技术开发区",
-      "unofficeCityName": "宿迁经济技术开发",
+      "unofficeCityName": "宿迁",
       "weatherId": 101191301
     }
   },
@@ -5613,12 +5613,12 @@ const data = {
     },
     "330102": {
       "cityName": "上城区",
-      "unofficeCityName": "上",
+      "unofficeCityName": "上城区",
       "weatherId": 101210101
     },
     "330103": {
       "cityName": "下城区",
-      "unofficeCityName": "下",
+      "unofficeCityName": "下城区",
       "weatherId": 101210101
     },
     "330104": {
@@ -5742,7 +5742,7 @@ const data = {
     },
     "330302": {
       "cityName": "鹿城区",
-      "unofficeCityName": "鹿",
+      "unofficeCityName": "鹿城区",
       "weatherId": 101210701
     },
     "330303": {
@@ -5787,7 +5787,7 @@ const data = {
     },
     "330371": {
       "cityName": "温州经济技术开发区",
-      "unofficeCityName": "温州经济技术开发",
+      "unofficeCityName": "温州",
       "weatherId": 101210701
     },
     "330381": {
@@ -5888,7 +5888,7 @@ const data = {
     },
     "330602": {
       "cityName": "越城区",
-      "unofficeCityName": "越",
+      "unofficeCityName": "越城区",
       "weatherId": 101210501
     },
     "330603": {
@@ -5925,7 +5925,7 @@ const data = {
     },
     "330702": {
       "cityName": "婺城区",
-      "unofficeCityName": "婺",
+      "unofficeCityName": "婺城区",
       "weatherId": 101210901
     },
     "330703": {
@@ -5977,7 +5977,7 @@ const data = {
     },
     "330802": {
       "cityName": "柯城区",
-      "unofficeCityName": "柯",
+      "unofficeCityName": "柯城区",
       "weatherId": 101211001
     },
     "330803": {
@@ -6128,7 +6128,7 @@ const data = {
     },
     "331127": {
       "cityName": "景宁畲族自治县",
-      "unofficeCityName": "景宁畲族",
+      "unofficeCityName": "景宁",
       "weatherId": 101210801
     },
     "331181": {
@@ -6267,17 +6267,17 @@ const data = {
     },
     "340171": {
       "cityName": "合肥高新技术产业开发区",
-      "unofficeCityName": "合肥高新技术产业开发",
+      "unofficeCityName": "合肥",
       "weatherId": 101220101
     },
     "340172": {
       "cityName": "合肥经济技术开发区",
-      "unofficeCityName": "合肥经济技术开发",
+      "unofficeCityName": "合肥",
       "weatherId": 101220101
     },
     "340173": {
       "cityName": "合肥新站高新技术产业开发区",
-      "unofficeCityName": "合肥新站高新技术产业开发",
+      "unofficeCityName": "合肥新站",
       "weatherId": 101220101
     },
     "340181": {
@@ -6334,12 +6334,12 @@ const data = {
     },
     "340271": {
       "cityName": "芜湖经济技术开发区",
-      "unofficeCityName": "芜湖经济技术开发",
+      "unofficeCityName": "芜湖",
       "weatherId": 101220301
     },
     "340272": {
       "cityName": "安徽芜湖长江大桥经济开发区",
-      "unofficeCityName": "安徽芜湖长江大桥经济开发",
+      "unofficeCityName": "安徽芜湖长江大桥",
       "weatherId": 101220301
     }
   },
@@ -6386,12 +6386,12 @@ const data = {
     },
     "340371": {
       "cityName": "蚌埠市高新技术开发区",
-      "unofficeCityName": "蚌埠高新技术开发",
+      "unofficeCityName": "蚌埠高新技术开发区",
       "weatherId": 101220201
     },
     "340372": {
       "cityName": "蚌埠市经济开发区",
-      "unofficeCityName": "蚌埠经济开发",
+      "unofficeCityName": "蚌埠经济开发区",
       "weatherId": 101220201
     }
   },
@@ -6433,8 +6433,8 @@ const data = {
     },
     "340422": {
       "cityName": "寿县",
-      "unofficeCityName": "寿",
-      "weatherId": 101220401
+      "unofficeCityName": "寿县",
+      "weatherId": 101221503
     }
   },
   "340500": {
@@ -6470,8 +6470,8 @@ const data = {
     },
     "340523": {
       "cityName": "和县",
-      "unofficeCityName": "和",
-      "weatherId": 101220501
+      "unofficeCityName": "和县",
+      "weatherId": 101221605
     }
   },
   "340600": {
@@ -6519,7 +6519,7 @@ const data = {
     },
     "340711": {
       "cityName": "郊区",
-      "unofficeCityName": "郊",
+      "unofficeCityName": "郊区",
       "weatherId": 101221301
     },
     "340722": {
@@ -6576,7 +6576,7 @@ const data = {
     },
     "340871": {
       "cityName": "安徽安庆经济开发区",
-      "unofficeCityName": "安徽安庆经济开发",
+      "unofficeCityName": "安徽安庆",
       "weatherId": 101220601
     },
     "340881": {
@@ -6613,8 +6613,8 @@ const data = {
     },
     "341021": {
       "cityName": "歙县",
-      "unofficeCityName": "歙",
-      "weatherId": 101221008
+      "unofficeCityName": "歙县",
+      "weatherId": 101221006
     },
     "341022": {
       "cityName": "休宁县",
@@ -6623,8 +6623,8 @@ const data = {
     },
     "341023": {
       "cityName": "黟县",
-      "unofficeCityName": "黟",
-      "weatherId": 101221008
+      "unofficeCityName": "黟县",
+      "weatherId": 101221005
     },
     "341024": {
       "cityName": "祁门县",
@@ -6670,12 +6670,12 @@ const data = {
     },
     "341171": {
       "cityName": "苏滁现代产业园",
-      "unofficeCityName": "苏滁现代产业园",
+      "unofficeCityName": "苏滁",
       "weatherId": 101221101
     },
     "341172": {
       "cityName": "滁州经济技术开发区",
-      "unofficeCityName": "滁州经济技术开发",
+      "unofficeCityName": "滁州",
       "weatherId": 101221101
     },
     "341181": {
@@ -6732,12 +6732,12 @@ const data = {
     },
     "341271": {
       "cityName": "阜阳合肥现代产业园区",
-      "unofficeCityName": "阜阳合肥现代产业园",
+      "unofficeCityName": "阜阳合肥区",
       "weatherId": 101220801
     },
     "341272": {
       "cityName": "阜阳经济技术开发区",
-      "unofficeCityName": "阜阳经济技术开发",
+      "unofficeCityName": "阜阳",
       "weatherId": 101220801
     },
     "341282": {
@@ -6764,8 +6764,8 @@ const data = {
     },
     "341322": {
       "cityName": "萧县",
-      "unofficeCityName": "萧",
-      "weatherId": 101220701
+      "unofficeCityName": "萧县",
+      "weatherId": 101220705
     },
     "341323": {
       "cityName": "灵璧县",
@@ -6774,17 +6774,17 @@ const data = {
     },
     "341324": {
       "cityName": "泗县",
-      "unofficeCityName": "泗",
-      "weatherId": 101220701
+      "unofficeCityName": "泗县",
+      "weatherId": 101220704
     },
     "341371": {
       "cityName": "宿州马鞍山现代产业园区",
-      "unofficeCityName": "宿州马鞍山现代产业园",
+      "unofficeCityName": "宿州马鞍山区",
       "weatherId": 101220701
     },
     "341372": {
       "cityName": "宿州经济技术开发区",
-      "unofficeCityName": "宿州经济技术开发",
+      "unofficeCityName": "宿州",
       "weatherId": 101220701
     }
   },
@@ -6838,7 +6838,7 @@ const data = {
     },
     "341602": {
       "cityName": "谯城区",
-      "unofficeCityName": "谯",
+      "unofficeCityName": "谯城区",
       "weatherId": 101220901
     },
     "341621": {
@@ -6902,8 +6902,8 @@ const data = {
     },
     "341823": {
       "cityName": "泾县",
-      "unofficeCityName": "泾",
-      "weatherId": 101221401
+      "unofficeCityName": "泾县",
+      "weatherId": 101221402
     },
     "341824": {
       "cityName": "绩溪县",
@@ -6917,7 +6917,7 @@ const data = {
     },
     "341871": {
       "cityName": "宣城市经济开发区",
-      "unofficeCityName": "宣城经济开发",
+      "unofficeCityName": "宣城经济开发区",
       "weatherId": 101221401
     },
     "341881": {
@@ -7105,7 +7105,7 @@ const data = {
     },
     "350304": {
       "cityName": "荔城区",
-      "unofficeCityName": "荔",
+      "unofficeCityName": "荔城区",
       "weatherId": 101230401
     },
     "350305": {
@@ -7162,8 +7162,8 @@ const data = {
     },
     "350427": {
       "cityName": "沙县",
-      "unofficeCityName": "沙",
-      "weatherId": 101230801
+      "unofficeCityName": "沙县",
+      "weatherId": 101230808
     },
     "350428": {
       "cityName": "将乐县",
@@ -7194,7 +7194,7 @@ const data = {
     },
     "350502": {
       "cityName": "鲤城区",
-      "unofficeCityName": "鲤",
+      "unofficeCityName": "鲤城区",
       "weatherId": 101230501
     },
     "350503": {
@@ -7261,7 +7261,7 @@ const data = {
     },
     "350602": {
       "cityName": "芗城区",
-      "unofficeCityName": "芗",
+      "unofficeCityName": "芗城区",
       "weatherId": 101230601
     },
     "350603": {
@@ -7422,7 +7422,7 @@ const data = {
     },
     "350902": {
       "cityName": "蕉城区",
-      "unofficeCityName": "蕉",
+      "unofficeCityName": "蕉城区",
       "weatherId": 101230301
     },
     "350921": {
@@ -7763,7 +7763,7 @@ const data = {
     },
     "360704": {
       "cityName": "赣县区",
-      "unofficeCityName": "赣",
+      "unofficeCityName": "赣区",
       "weatherId": 101240701
     },
     "360722": {
@@ -8195,7 +8195,7 @@ const data = {
     },
     "370103": {
       "cityName": "市中区",
-      "unofficeCityName": "中",
+      "unofficeCityName": "中区",
       "weatherId": 101120101
     },
     "370104": {
@@ -8210,7 +8210,7 @@ const data = {
     },
     "370112": {
       "cityName": "历城区",
-      "unofficeCityName": "历",
+      "unofficeCityName": "历城区",
       "weatherId": 101120101
     },
     "370113": {
@@ -8235,7 +8235,7 @@ const data = {
     },
     "370117": {
       "cityName": "钢城区",
-      "unofficeCityName": "钢",
+      "unofficeCityName": "钢城区",
       "weatherId": 101120101
     },
     "370124": {
@@ -8250,7 +8250,7 @@ const data = {
     },
     "370171": {
       "cityName": "济南高新技术产业开发区",
-      "unofficeCityName": "济南高新技术产业开发",
+      "unofficeCityName": "济南",
       "weatherId": 101120101
     }
   },
@@ -8262,12 +8262,12 @@ const data = {
     },
     "370202": {
       "cityName": "市南区",
-      "unofficeCityName": "南",
+      "unofficeCityName": "南区",
       "weatherId": 101120201
     },
     "370203": {
       "cityName": "市北区",
-      "unofficeCityName": "北",
+      "unofficeCityName": "北区",
       "weatherId": 101120201
     },
     "370211": {
@@ -8297,7 +8297,7 @@ const data = {
     },
     "370271": {
       "cityName": "青岛高新技术产业开发区",
-      "unofficeCityName": "青岛高新技术产业开发",
+      "unofficeCityName": "青岛",
       "weatherId": 101120201
     },
     "370281": {
@@ -8371,17 +8371,17 @@ const data = {
     },
     "370402": {
       "cityName": "市中区",
-      "unofficeCityName": "中",
+      "unofficeCityName": "中区",
       "weatherId": 101121401
     },
     "370403": {
       "cityName": "薛城区",
-      "unofficeCityName": "薛",
+      "unofficeCityName": "薛城区",
       "weatherId": 101121401
     },
     "370404": {
       "cityName": "峄城区",
-      "unofficeCityName": "峄",
+      "unofficeCityName": "峄城区",
       "weatherId": 101121401
     },
     "370405": {
@@ -8433,12 +8433,12 @@ const data = {
     },
     "370571": {
       "cityName": "东营经济技术开发区",
-      "unofficeCityName": "东营经济技术开发",
+      "unofficeCityName": "东营",
       "weatherId": 101121201
     },
     "370572": {
       "cityName": "东营港经济开发区",
-      "unofficeCityName": "东营港经济开发",
+      "unofficeCityName": "东营港",
       "weatherId": 101121201
     }
   },
@@ -8475,12 +8475,12 @@ const data = {
     },
     "370671": {
       "cityName": "烟台高新技术产业开发区",
-      "unofficeCityName": "烟台高新技术产业开发",
+      "unofficeCityName": "烟台",
       "weatherId": 101120501
     },
     "370672": {
       "cityName": "烟台经济技术开发区",
-      "unofficeCityName": "烟台经济技术开发",
+      "unofficeCityName": "烟台",
       "weatherId": 101120501
     },
     "370681": {
@@ -8527,7 +8527,7 @@ const data = {
     },
     "370702": {
       "cityName": "潍城区",
-      "unofficeCityName": "潍",
+      "unofficeCityName": "潍城区",
       "weatherId": 101120601
     },
     "370703": {
@@ -8557,7 +8557,7 @@ const data = {
     },
     "370772": {
       "cityName": "潍坊滨海经济技术开发区",
-      "unofficeCityName": "潍坊滨海经济技术开发",
+      "unofficeCityName": "潍坊滨海",
       "weatherId": 101120601
     },
     "370781": {
@@ -8599,7 +8599,7 @@ const data = {
     },
     "370811": {
       "cityName": "任城区",
-      "unofficeCityName": "任",
+      "unofficeCityName": "任城区",
       "weatherId": 101120701
     },
     "370812": {
@@ -8644,7 +8644,7 @@ const data = {
     },
     "370871": {
       "cityName": "济宁高新技术产业开发区",
-      "unofficeCityName": "济宁高新技术产业开发",
+      "unofficeCityName": "济宁",
       "weatherId": 101120701
     },
     "370881": {
@@ -8718,12 +8718,12 @@ const data = {
     },
     "371072": {
       "cityName": "威海经济技术开发区",
-      "unofficeCityName": "威海经济技术开发",
+      "unofficeCityName": "威海",
       "weatherId": 101121301
     },
     "371073": {
       "cityName": "威海临港经济技术开发区",
-      "unofficeCityName": "威海临港经济技术开发",
+      "unofficeCityName": "威海临港",
       "weatherId": 101121301
     },
     "371082": {
@@ -8760,12 +8760,12 @@ const data = {
     },
     "371122": {
       "cityName": "莒县",
-      "unofficeCityName": "莒",
-      "weatherId": 101121501
+      "unofficeCityName": "莒县",
+      "weatherId": 101121503
     },
     "371171": {
       "cityName": "日照经济技术开发区",
-      "unofficeCityName": "日照经济技术开发",
+      "unofficeCityName": "日照",
       "weatherId": 101121501
     }
   },
@@ -8812,8 +8812,8 @@ const data = {
     },
     "371325": {
       "cityName": "费县",
-      "unofficeCityName": "费",
-      "weatherId": 101120901
+      "unofficeCityName": "费县",
+      "weatherId": 101120909
     },
     "371326": {
       "cityName": "平邑县",
@@ -8837,17 +8837,17 @@ const data = {
     },
     "371371": {
       "cityName": "临沂高新技术产业开发区",
-      "unofficeCityName": "临沂高新技术产业开发",
+      "unofficeCityName": "临沂",
       "weatherId": 101120901
     },
     "371372": {
       "cityName": "临沂经济技术开发区",
-      "unofficeCityName": "临沂经济技术开发",
+      "unofficeCityName": "临沂",
       "weatherId": 101120901
     },
     "371373": {
       "cityName": "临沂临港经济开发区",
-      "unofficeCityName": "临沂临港经济开发",
+      "unofficeCityName": "临沂临港",
       "weatherId": 101120901
     }
   },
@@ -8859,12 +8859,12 @@ const data = {
     },
     "371402": {
       "cityName": "德城区",
-      "unofficeCityName": "德",
+      "unofficeCityName": "德城区",
       "weatherId": 101120401
     },
     "371403": {
       "cityName": "陵城区",
-      "unofficeCityName": "陵",
+      "unofficeCityName": "陵城区",
       "weatherId": 101120401
     },
     "371422": {
@@ -8904,12 +8904,12 @@ const data = {
     },
     "371471": {
       "cityName": "德州经济技术开发区",
-      "unofficeCityName": "德州经济技术开发",
+      "unofficeCityName": "德州",
       "weatherId": 101120401
     },
     "371472": {
       "cityName": "德州运河经济开发区",
-      "unofficeCityName": "德州运河经济开发",
+      "unofficeCityName": "德州运河",
       "weatherId": 101120401
     },
     "371481": {
@@ -8946,8 +8946,8 @@ const data = {
     },
     "371522": {
       "cityName": "莘县",
-      "unofficeCityName": "莘",
-      "weatherId": 101121701
+      "unofficeCityName": "莘县",
+      "weatherId": 101121709
     },
     "371524": {
       "cityName": "东阿县",
@@ -8956,8 +8956,8 @@ const data = {
     },
     "371525": {
       "cityName": "冠县",
-      "unofficeCityName": "冠",
-      "weatherId": 101121701
+      "unofficeCityName": "冠县",
+      "weatherId": 101121702
     },
     "371526": {
       "cityName": "高唐县",
@@ -8978,7 +8978,7 @@ const data = {
     },
     "371602": {
       "cityName": "滨城区",
-      "unofficeCityName": "滨",
+      "unofficeCityName": "滨城区",
       "weatherId": 101121101
     },
     "371603": {
@@ -9030,13 +9030,13 @@ const data = {
     },
     "371721": {
       "cityName": "曹县",
-      "unofficeCityName": "曹",
-      "weatherId": 101121001
+      "unofficeCityName": "曹县",
+      "weatherId": 101121007
     },
     "371722": {
       "cityName": "单县",
-      "unofficeCityName": "单",
-      "weatherId": 101121001
+      "unofficeCityName": "单县",
+      "weatherId": 101121009
     },
     "371723": {
       "cityName": "成武县",
@@ -9065,7 +9065,7 @@ const data = {
     },
     "371771": {
       "cityName": "菏泽经济技术开发区",
-      "unofficeCityName": "菏泽经济技术开发",
+      "unofficeCityName": "菏泽",
       "weatherId": 101121001
     },
     "371772": {
@@ -9162,7 +9162,7 @@ const data = {
     },
     "419000": {
       "cityName": "省直辖县级行政区划",
-      "unofficeCityName": "直辖级行政划",
+      "unofficeCityName": "直辖县级行政区划",
       "weatherId": 101180101
     }
   },
@@ -9184,7 +9184,7 @@ const data = {
     },
     "410104": {
       "cityName": "管城回族区",
-      "unofficeCityName": "管城回族",
+      "unofficeCityName": "管城",
       "weatherId": 101180101
     },
     "410105": {
@@ -9209,12 +9209,12 @@ const data = {
     },
     "410171": {
       "cityName": "郑州经济技术开发区",
-      "unofficeCityName": "郑州经济技术开发",
+      "unofficeCityName": "郑州",
       "weatherId": 101180101
     },
     "410172": {
       "cityName": "郑州高新技术产业开发区",
-      "unofficeCityName": "郑州高新技术产业开发",
+      "unofficeCityName": "郑州",
       "weatherId": 101180101
     },
     "410173": {
@@ -9261,7 +9261,7 @@ const data = {
     },
     "410203": {
       "cityName": "顺河回族区",
-      "unofficeCityName": "顺河回族",
+      "unofficeCityName": "顺河",
       "weatherId": 101180801
     },
     "410204": {
@@ -9281,8 +9281,8 @@ const data = {
     },
     "410221": {
       "cityName": "杞县",
-      "unofficeCityName": "杞",
-      "weatherId": 101180801
+      "unofficeCityName": "杞县",
+      "weatherId": 101180802
     },
     "410222": {
       "cityName": "通许县",
@@ -9308,7 +9308,7 @@ const data = {
     },
     "410302": {
       "cityName": "老城区",
-      "unofficeCityName": "老",
+      "unofficeCityName": "老城区",
       "weatherId": 101180901
     },
     "410303": {
@@ -9318,7 +9318,7 @@ const data = {
     },
     "410304": {
       "cityName": "瀍河回族区",
-      "unofficeCityName": "瀍河回族",
+      "unofficeCityName": "瀍河",
       "weatherId": 101180901
     },
     "410305": {
@@ -9353,8 +9353,8 @@ const data = {
     },
     "410325": {
       "cityName": "嵩县",
-      "unofficeCityName": "嵩",
-      "weatherId": 101180901
+      "unofficeCityName": "嵩县",
+      "weatherId": 101180907
     },
     "410326": {
       "cityName": "汝阳县",
@@ -9378,7 +9378,7 @@ const data = {
     },
     "410371": {
       "cityName": "洛阳高新技术产业开发区",
-      "unofficeCityName": "洛阳高新技术产业开发",
+      "unofficeCityName": "洛阳",
       "weatherId": 101180901
     },
     "410381": {
@@ -9420,8 +9420,8 @@ const data = {
     },
     "410422": {
       "cityName": "叶县",
-      "unofficeCityName": "叶",
-      "weatherId": 101180501
+      "unofficeCityName": "叶县",
+      "weatherId": 101180505
     },
     "410423": {
       "cityName": "鲁山县",
@@ -9430,17 +9430,17 @@ const data = {
     },
     "410425": {
       "cityName": "郏县",
-      "unofficeCityName": "郏",
-      "weatherId": 101180501
+      "unofficeCityName": "郏县",
+      "weatherId": 101180502
     },
     "410471": {
       "cityName": "平顶山高新技术产业开发区",
-      "unofficeCityName": "平顶山高新技术产业开发",
+      "unofficeCityName": "平顶山",
       "weatherId": 101180501
     },
     "410472": {
       "cityName": "平顶山市城乡一体化示范区",
-      "unofficeCityName": "平顶山城乡一体化示范",
+      "unofficeCityName": "平顶山城乡一体化示范区",
       "weatherId": 101180501
     },
     "410481": {
@@ -9492,8 +9492,8 @@ const data = {
     },
     "410526": {
       "cityName": "滑县",
-      "unofficeCityName": "滑",
-      "weatherId": 101180201
+      "unofficeCityName": "滑县",
+      "weatherId": 101180203
     },
     "410527": {
       "cityName": "内黄县",
@@ -9502,7 +9502,7 @@ const data = {
     },
     "410571": {
       "cityName": "安阳高新技术产业开发区",
-      "unofficeCityName": "安阳高新技术产业开发",
+      "unofficeCityName": "安阳",
       "weatherId": 101180201
     },
     "410581": {
@@ -9524,7 +9524,7 @@ const data = {
     },
     "410603": {
       "cityName": "山城区",
-      "unofficeCityName": "山",
+      "unofficeCityName": "山城区",
       "weatherId": 101181201
     },
     "410611": {
@@ -9534,17 +9534,17 @@ const data = {
     },
     "410621": {
       "cityName": "浚县",
-      "unofficeCityName": "浚",
-      "weatherId": 101181201
+      "unofficeCityName": "浚县",
+      "weatherId": 101181202
     },
     "410622": {
       "cityName": "淇县",
-      "unofficeCityName": "淇",
-      "weatherId": 101181201
+      "unofficeCityName": "淇县",
+      "weatherId": 101181203
     },
     "410671": {
       "cityName": "鹤壁经济技术开发区",
-      "unofficeCityName": "鹤壁经济技术开发",
+      "unofficeCityName": "鹤壁",
       "weatherId": 101181201
     }
   },
@@ -9601,17 +9601,17 @@ const data = {
     },
     "410771": {
       "cityName": "新乡高新技术产业开发区",
-      "unofficeCityName": "新乡高新技术产业开发",
+      "unofficeCityName": "新乡",
       "weatherId": 101180301
     },
     "410772": {
       "cityName": "新乡经济技术开发区",
-      "unofficeCityName": "新乡经济技术开发",
+      "unofficeCityName": "新乡",
       "weatherId": 101180301
     },
     "410773": {
       "cityName": "新乡市平原城乡一体化示范区",
-      "unofficeCityName": "新乡平原城乡一体化示范",
+      "unofficeCityName": "新乡平原城乡一体化示范区",
       "weatherId": 101180301
     },
     "410781": {
@@ -9621,7 +9621,7 @@ const data = {
     },
     "410782": {
       "cityName": "辉县市",
-      "unofficeCityName": "辉",
+      "unofficeCityName": "辉市",
       "weatherId": 101180301
     },
     "410783": {
@@ -9673,12 +9673,12 @@ const data = {
     },
     "410825": {
       "cityName": "温县",
-      "unofficeCityName": "温",
-      "weatherId": 101181101
+      "unofficeCityName": "温县",
+      "weatherId": 101181107
     },
     "410871": {
       "cityName": "焦作城乡一体化示范区",
-      "unofficeCityName": "焦作城乡一体化示范",
+      "unofficeCityName": "焦作",
       "weatherId": 101181101
     },
     "410882": {
@@ -9715,8 +9715,8 @@ const data = {
     },
     "410926": {
       "cityName": "范县",
-      "unofficeCityName": "范",
-      "weatherId": 101181301
+      "unofficeCityName": "范县",
+      "weatherId": 101181305
     },
     "410927": {
       "cityName": "台前县",
@@ -9730,12 +9730,12 @@ const data = {
     },
     "410971": {
       "cityName": "河南濮阳工业园区",
-      "unofficeCityName": "河南濮阳工业园",
+      "unofficeCityName": "河南濮阳",
       "weatherId": 101181301
     },
     "410972": {
       "cityName": "濮阳经济技术开发区",
-      "unofficeCityName": "濮阳经济技术开发",
+      "unofficeCityName": "濮阳",
       "weatherId": 101181301
     }
   },
@@ -9767,7 +9767,7 @@ const data = {
     },
     "411071": {
       "cityName": "许昌经济技术开发区",
-      "unofficeCityName": "许昌经济技术开发",
+      "unofficeCityName": "许昌",
       "weatherId": 101180401
     },
     "411081": {
@@ -9794,7 +9794,7 @@ const data = {
     },
     "411103": {
       "cityName": "郾城区",
-      "unofficeCityName": "郾",
+      "unofficeCityName": "郾城区",
       "weatherId": 101181501
     },
     "411104": {
@@ -9814,7 +9814,7 @@ const data = {
     },
     "411171": {
       "cityName": "漯河经济技术开发区",
-      "unofficeCityName": "漯河经济技术开发",
+      "unofficeCityName": "漯河",
       "weatherId": 101181501
     }
   },
@@ -9846,7 +9846,7 @@ const data = {
     },
     "411271": {
       "cityName": "河南三门峡经济开发区",
-      "unofficeCityName": "河南三门峡经济开发",
+      "unofficeCityName": "河南三门峡",
       "weatherId": 101181701
     },
     "411281": {
@@ -9868,7 +9868,7 @@ const data = {
     },
     "411302": {
       "cityName": "宛城区",
-      "unofficeCityName": "宛",
+      "unofficeCityName": "宛城区",
       "weatherId": 101180701
     },
     "411303": {
@@ -9928,12 +9928,12 @@ const data = {
     },
     "411371": {
       "cityName": "南阳高新技术产业开发区",
-      "unofficeCityName": "南阳高新技术产业开发",
+      "unofficeCityName": "南阳",
       "weatherId": 101180701
     },
     "411372": {
       "cityName": "南阳市城乡一体化示范区",
-      "unofficeCityName": "南阳城乡一体化示范",
+      "unofficeCityName": "南阳城乡一体化示范区",
       "weatherId": 101180701
     },
     "411381": {
@@ -9965,8 +9965,8 @@ const data = {
     },
     "411422": {
       "cityName": "睢县",
-      "unofficeCityName": "睢",
-      "weatherId": 101181001
+      "unofficeCityName": "睢县",
+      "weatherId": 101181003
     },
     "411423": {
       "cityName": "宁陵县",
@@ -9995,7 +9995,7 @@ const data = {
     },
     "411472": {
       "cityName": "河南商丘经济开发区",
-      "unofficeCityName": "河南商丘经济开发",
+      "unofficeCityName": "河南商丘",
       "weatherId": 101181001
     },
     "411481": {
@@ -10032,8 +10032,8 @@ const data = {
     },
     "411523": {
       "cityName": "新县",
-      "unofficeCityName": "新",
-      "weatherId": 101180601
+      "unofficeCityName": "新县",
+      "weatherId": 101180605
     },
     "411524": {
       "cityName": "商城县",
@@ -10057,12 +10057,12 @@ const data = {
     },
     "411528": {
       "cityName": "息县",
-      "unofficeCityName": "息",
-      "weatherId": 101180601
+      "unofficeCityName": "息县",
+      "weatherId": 101180602
     },
     "411571": {
       "cityName": "信阳高新技术产业开发区",
-      "unofficeCityName": "信阳高新技术产业开发",
+      "unofficeCityName": "信阳",
       "weatherId": 101180601
     }
   },
@@ -10119,7 +10119,7 @@ const data = {
     },
     "411671": {
       "cityName": "河南周口经济开发区",
-      "unofficeCityName": "河南周口经济开发",
+      "unofficeCityName": "河南周口",
       "weatherId": 101181401
     },
     "411681": {
@@ -10136,7 +10136,7 @@ const data = {
     },
     "411702": {
       "cityName": "驿城区",
-      "unofficeCityName": "驿",
+      "unofficeCityName": "驿城区",
       "weatherId": 101181601
     },
     "411721": {
@@ -10186,7 +10186,7 @@ const data = {
     },
     "411771": {
       "cityName": "河南驻马店经济开发区",
-      "unofficeCityName": "河南驻马店经济开发",
+      "unofficeCityName": "河南驻马店",
       "weatherId": 101181601
     }
   },
@@ -10260,12 +10260,12 @@ const data = {
     },
     "422800": {
       "cityName": "恩施土家族苗族自治州",
-      "unofficeCityName": "恩施土家族苗族",
+      "unofficeCityName": "恩施土家族",
       "weatherId": 101200101
     },
     "429000": {
       "cityName": "省直辖县级行政区划",
-      "unofficeCityName": "直辖级行政划",
+      "unofficeCityName": "直辖县级行政区划",
       "weatherId": 101200101
     }
   },
@@ -10416,8 +10416,8 @@ const data = {
     },
     "420325": {
       "cityName": "房县",
-      "unofficeCityName": "房",
-      "weatherId": 101201101
+      "unofficeCityName": "房县",
+      "weatherId": 101201106
     },
     "420381": {
       "cityName": "丹江口市",
@@ -10473,13 +10473,13 @@ const data = {
     },
     "420528": {
       "cityName": "长阳土家族自治县",
-      "unofficeCityName": "长阳土家族",
-      "weatherId": 101200901
+      "unofficeCityName": "长阳",
+      "weatherId": 101200908
     },
     "420529": {
       "cityName": "五峰土家族自治县",
-      "unofficeCityName": "五峰土家族",
-      "weatherId": 101200901
+      "unofficeCityName": "五峰",
+      "weatherId": 101200906
     },
     "420581": {
       "cityName": "宜都市",
@@ -10505,12 +10505,12 @@ const data = {
     },
     "420602": {
       "cityName": "襄城区",
-      "unofficeCityName": "襄",
+      "unofficeCityName": "襄城区",
       "weatherId": 101200202
     },
     "420606": {
       "cityName": "樊城区",
-      "unofficeCityName": "樊",
+      "unofficeCityName": "樊城区",
       "weatherId": 101200202
     },
     "420607": {
@@ -10567,7 +10567,7 @@ const data = {
     },
     "420704": {
       "cityName": "鄂城区",
-      "unofficeCityName": "鄂",
+      "unofficeCityName": "鄂城区",
       "weatherId": 101200301
     }
   },
@@ -10653,7 +10653,7 @@ const data = {
     },
     "421002": {
       "cityName": "沙市区",
-      "unofficeCityName": "沙",
+      "unofficeCityName": "沙区",
       "weatherId": 101200801
     },
     "421003": {
@@ -10678,7 +10678,7 @@ const data = {
     },
     "421071": {
       "cityName": "荆州经济技术开发区",
-      "unofficeCityName": "荆州经济技术开发",
+      "unofficeCityName": "荆州",
       "weatherId": 101200801
     },
     "421081": {
@@ -10745,7 +10745,7 @@ const data = {
     },
     "421171": {
       "cityName": "龙感湖管理区",
-      "unofficeCityName": "龙感湖管理",
+      "unofficeCityName": "龙感湖",
       "weatherId": 101200501
     },
     "421181": {
@@ -10809,7 +10809,7 @@ const data = {
     },
     "421321": {
       "cityName": "随县",
-      "unofficeCityName": "随",
+      "unofficeCityName": "随县",
       "weatherId": 101201301
     },
     "421381": {
@@ -10950,7 +10950,7 @@ const data = {
     },
     "433100": {
       "cityName": "湘西土家族苗族自治州",
-      "unofficeCityName": "湘西土家族苗族",
+      "unofficeCityName": "湘西土家族",
       "weatherId": 101250101
     }
   },
@@ -10987,7 +10987,7 @@ const data = {
     },
     "430112": {
       "cityName": "望城区",
-      "unofficeCityName": "望",
+      "unofficeCityName": "望城区",
       "weatherId": 101250101
     },
     "430121": {
@@ -11039,8 +11039,8 @@ const data = {
     },
     "430223": {
       "cityName": "攸县",
-      "unofficeCityName": "攸",
-      "weatherId": 101250301
+      "unofficeCityName": "攸县",
+      "weatherId": 101250302
     },
     "430224": {
       "cityName": "茶陵县",
@@ -11086,7 +11086,7 @@ const data = {
     },
     "430371": {
       "cityName": "湖南湘潭高新技术产业园区",
-      "unofficeCityName": "湖南湘潭高新技术产业园",
+      "unofficeCityName": "湖南湘潭",
       "weatherId": 101250201
     },
     "430372": {
@@ -11168,17 +11168,17 @@ const data = {
     },
     "430471": {
       "cityName": "衡阳综合保税区",
-      "unofficeCityName": "衡阳综合保税",
+      "unofficeCityName": "衡阳",
       "weatherId": 101250401
     },
     "430472": {
       "cityName": "湖南衡阳高新技术产业园区",
-      "unofficeCityName": "湖南衡阳高新技术产业园",
+      "unofficeCityName": "湖南衡阳",
       "weatherId": 101250401
     },
     "430473": {
       "cityName": "湖南衡阳松木经济开发区",
-      "unofficeCityName": "湖南衡阳松木经济开发",
+      "unofficeCityName": "湖南衡阳松木",
       "weatherId": 101250401
     },
     "430481": {
@@ -11245,8 +11245,8 @@ const data = {
     },
     "430529": {
       "cityName": "城步苗族自治县",
-      "unofficeCityName": "城步苗族",
-      "weatherId": 101250901
+      "unofficeCityName": "城步",
+      "weatherId": 101250909
     },
     "430581": {
       "cityName": "武冈市",
@@ -11302,7 +11302,7 @@ const data = {
     },
     "430671": {
       "cityName": "岳阳市屈原管理区",
-      "unofficeCityName": "岳阳屈原管理",
+      "unofficeCityName": "岳阳屈原管理区",
       "weatherId": 101251001
     },
     "430681": {
@@ -11329,7 +11329,7 @@ const data = {
     },
     "430703": {
       "cityName": "鼎城区",
-      "unofficeCityName": "鼎",
+      "unofficeCityName": "鼎城区",
       "weatherId": 101250601
     },
     "430721": {
@@ -11344,8 +11344,8 @@ const data = {
     },
     "430723": {
       "cityName": "澧县",
-      "unofficeCityName": "澧",
-      "weatherId": 101250601
+      "unofficeCityName": "澧县",
+      "weatherId": 101250605
     },
     "430724": {
       "cityName": "临澧县",
@@ -11364,12 +11364,12 @@ const data = {
     },
     "430771": {
       "cityName": "常德市西洞庭管理区",
-      "unofficeCityName": "常德西洞庭管理",
+      "unofficeCityName": "常德西洞庭管理区",
       "weatherId": 101250601
     },
     "430781": {
       "cityName": "津市市",
-      "unofficeCityName": "津",
+      "unofficeCityName": "津市",
       "weatherId": 101250601
     }
   },
@@ -11418,8 +11418,8 @@ const data = {
     },
     "430921": {
       "cityName": "南县",
-      "unofficeCityName": "南",
-      "weatherId": 101250700
+      "unofficeCityName": "南县",
+      "weatherId": 101250702
     },
     "430922": {
       "cityName": "桃江县",
@@ -11433,12 +11433,12 @@ const data = {
     },
     "430971": {
       "cityName": "益阳市大通湖管理区",
-      "unofficeCityName": "益阳大通湖管理",
+      "unofficeCityName": "益阳大通湖管理区",
       "weatherId": 101250700
     },
     "430972": {
       "cityName": "湖南益阳高新技术产业园区",
-      "unofficeCityName": "湖南益阳高新技术产业园",
+      "unofficeCityName": "湖南益阳",
       "weatherId": 101250700
     },
     "430981": {
@@ -11542,8 +11542,8 @@ const data = {
     },
     "431124": {
       "cityName": "道县",
-      "unofficeCityName": "道",
-      "weatherId": 101251401
+      "unofficeCityName": "道县",
+      "weatherId": 101251405
     },
     "431125": {
       "cityName": "江永县",
@@ -11567,22 +11567,22 @@ const data = {
     },
     "431129": {
       "cityName": "江华瑶族自治县",
-      "unofficeCityName": "江华瑶族",
-      "weatherId": 101251401
+      "unofficeCityName": "江华",
+      "weatherId": 101251410
     },
     "431171": {
       "cityName": "永州经济技术开发区",
-      "unofficeCityName": "永州经济技术开发",
+      "unofficeCityName": "永州",
       "weatherId": 101251401
     },
     "431172": {
       "cityName": "永州市金洞管理区",
-      "unofficeCityName": "永州金洞管理",
+      "unofficeCityName": "永州金洞管理区",
       "weatherId": 101251401
     },
     "431173": {
       "cityName": "永州市回龙圩管理区",
-      "unofficeCityName": "永州回龙圩管理",
+      "unofficeCityName": "永州回龙圩管理区",
       "weatherId": 101251401
     }
   },
@@ -11594,8 +11594,8 @@ const data = {
     },
     "431202": {
       "cityName": "鹤城区",
-      "unofficeCityName": "鹤",
-      "weatherId": 101251201
+      "unofficeCityName": "鹤城区",
+      "weatherId": 101251202
     },
     "431221": {
       "cityName": "中方县",
@@ -11624,32 +11624,32 @@ const data = {
     },
     "431226": {
       "cityName": "麻阳苗族自治县",
-      "unofficeCityName": "麻阳苗族",
-      "weatherId": 101251201
+      "unofficeCityName": "麻阳",
+      "weatherId": 101251208
     },
     "431227": {
       "cityName": "新晃侗族自治县",
-      "unofficeCityName": "新晃侗族",
-      "weatherId": 101251201
+      "unofficeCityName": "新晃",
+      "weatherId": 101251209
     },
     "431228": {
       "cityName": "芷江侗族自治县",
-      "unofficeCityName": "芷江侗族",
-      "weatherId": 101251201
+      "unofficeCityName": "芷江",
+      "weatherId": 101251210
     },
     "431229": {
       "cityName": "靖州苗族侗族自治县",
-      "unofficeCityName": "靖州苗族侗族",
-      "weatherId": 101251201
+      "unofficeCityName": "靖州",
+      "weatherId": 101251205
     },
     "431230": {
       "cityName": "通道侗族自治县",
-      "unofficeCityName": "通道侗族",
-      "weatherId": 101251201
+      "unofficeCityName": "通道",
+      "weatherId": 101251207
     },
     "431271": {
       "cityName": "怀化市洪江管理区",
-      "unofficeCityName": "怀化洪江管理",
+      "unofficeCityName": "怀化洪江管理区",
       "weatherId": 101251201
     },
     "431281": {
@@ -11733,7 +11733,7 @@ const data = {
     },
     "433173": {
       "cityName": "湖南永顺经济开发区",
-      "unofficeCityName": "湖南永顺经济开发",
+      "unofficeCityName": "湖南永顺",
       "weatherId": 101250101
     }
   },
@@ -11902,7 +11902,7 @@ const data = {
     },
     "440118": {
       "cityName": "增城区",
-      "unofficeCityName": "增",
+      "unofficeCityName": "增城区",
       "weatherId": 101280101
     }
   },
@@ -11944,8 +11944,8 @@ const data = {
     },
     "440232": {
       "cityName": "乳源瑶族自治县",
-      "unofficeCityName": "乳源瑶族",
-      "weatherId": 101280201
+      "unofficeCityName": "乳源",
+      "weatherId": 101280202
     },
     "440233": {
       "cityName": "新丰县",
@@ -12087,7 +12087,7 @@ const data = {
     },
     "440604": {
       "cityName": "禅城区",
-      "unofficeCityName": "禅",
+      "unofficeCityName": "禅城区",
       "weatherId": 101280800
     },
     "440605": {
@@ -12292,7 +12292,7 @@ const data = {
     },
     "441302": {
       "cityName": "惠城区",
-      "unofficeCityName": "惠",
+      "unofficeCityName": "惠城区",
       "weatherId": 101280301
     },
     "441303": {
@@ -12329,7 +12329,7 @@ const data = {
     },
     "441403": {
       "cityName": "梅县区",
-      "unofficeCityName": "梅",
+      "unofficeCityName": "梅区",
       "weatherId": 101280401
     },
     "441422": {
@@ -12371,7 +12371,7 @@ const data = {
     },
     "441502": {
       "cityName": "城区",
-      "unofficeCityName": "汕尾",
+      "unofficeCityName": "城区",
       "weatherId": 101282101
     },
     "441521": {
@@ -12398,7 +12398,7 @@ const data = {
     },
     "441602": {
       "cityName": "源城区",
-      "unofficeCityName": "源",
+      "unofficeCityName": "源城区",
       "weatherId": 101281201
     },
     "441621": {
@@ -12435,7 +12435,7 @@ const data = {
     },
     "441702": {
       "cityName": "江城区",
-      "unofficeCityName": "江",
+      "unofficeCityName": "江城区",
       "weatherId": 101281801
     },
     "441704": {
@@ -12462,7 +12462,7 @@ const data = {
     },
     "441802": {
       "cityName": "清城区",
-      "unofficeCityName": "清",
+      "unofficeCityName": "清城区",
       "weatherId": 101281301
     },
     "441803": {
@@ -12482,13 +12482,13 @@ const data = {
     },
     "441825": {
       "cityName": "连山壮族瑶族自治县",
-      "unofficeCityName": "连山壮族瑶族",
-      "weatherId": 101281301
+      "unofficeCityName": "连山",
+      "weatherId": 101281304
     },
     "441826": {
       "cityName": "连南瑶族自治县",
-      "unofficeCityName": "连南瑶族",
-      "weatherId": 101281301
+      "unofficeCityName": "连南",
+      "weatherId": 101281302
     },
     "441881": {
       "cityName": "英德市",
@@ -12502,77 +12502,303 @@ const data = {
     }
   },
   "441900": {
-    "441900": {
+    "441900003": {
+      "cityName": "东城街道",
+      "unofficeCityName": "东城街道",
+      "weatherId": 101281601
+    },
+    "441900004": {
+      "cityName": "南城街道",
+      "unofficeCityName": "南城街道",
+      "weatherId": 101281601
+    },
+    "441900005": {
+      "cityName": "万江街道",
+      "unofficeCityName": "万江街道",
+      "weatherId": 101281601
+    },
+    "441900006": {
+      "cityName": "莞城街道",
+      "unofficeCityName": "莞城街道",
+      "weatherId": 101281601
+    },
+    "441900101": {
+      "cityName": "石碣镇",
+      "unofficeCityName": "石碣镇",
+      "weatherId": 101281601
+    },
+    "441900102": {
+      "cityName": "石龙镇",
+      "unofficeCityName": "石龙镇",
+      "weatherId": 101281601
+    },
+    "441900103": {
+      "cityName": "茶山镇",
+      "unofficeCityName": "茶山镇",
+      "weatherId": 101281601
+    },
+    "441900104": {
+      "cityName": "石排镇",
+      "unofficeCityName": "石排镇",
+      "weatherId": 101281601
+    },
+    "441900105": {
+      "cityName": "企石镇",
+      "unofficeCityName": "企石镇",
+      "weatherId": 101281601
+    },
+    "441900106": {
+      "cityName": "横沥镇",
+      "unofficeCityName": "横沥镇",
+      "weatherId": 101281601
+    },
+    "441900107": {
+      "cityName": "桥头镇",
+      "unofficeCityName": "桥头镇",
+      "weatherId": 101281601
+    },
+    "441900108": {
+      "cityName": "谢岗镇",
+      "unofficeCityName": "谢岗镇",
+      "weatherId": 101281601
+    },
+    "441900109": {
+      "cityName": "东坑镇",
+      "unofficeCityName": "东坑镇",
+      "weatherId": 101281601
+    },
+    "441900110": {
+      "cityName": "常平镇",
+      "unofficeCityName": "常平镇",
+      "weatherId": 101281601
+    },
+    "441900111": {
+      "cityName": "寮步镇",
+      "unofficeCityName": "寮步镇",
+      "weatherId": 101281601
+    },
+    "441900112": {
+      "cityName": "樟木头镇",
+      "unofficeCityName": "樟木头镇",
+      "weatherId": 101281601
+    },
+    "441900113": {
+      "cityName": "大朗镇",
+      "unofficeCityName": "大朗镇",
+      "weatherId": 101281601
+    },
+    "441900114": {
+      "cityName": "黄江镇",
+      "unofficeCityName": "黄江镇",
+      "weatherId": 101281601
+    },
+    "441900115": {
+      "cityName": "清溪镇",
+      "unofficeCityName": "清溪镇",
+      "weatherId": 101281601
+    },
+    "441900116": {
+      "cityName": "塘厦镇",
+      "unofficeCityName": "塘厦镇",
+      "weatherId": 101281601
+    },
+    "441900117": {
+      "cityName": "凤岗镇",
+      "unofficeCityName": "凤岗镇",
+      "weatherId": 101281601
+    },
+    "441900118": {
+      "cityName": "大岭山镇",
+      "unofficeCityName": "大岭山镇",
+      "weatherId": 101281601
+    },
+    "441900119": {
+      "cityName": "长安镇",
+      "unofficeCityName": "长安镇",
+      "weatherId": 101281601
+    },
+    "441900121": {
+      "cityName": "虎门镇",
+      "unofficeCityName": "虎门镇",
+      "weatherId": 101281601
+    },
+    "441900122": {
+      "cityName": "厚街镇",
+      "unofficeCityName": "厚街镇",
+      "weatherId": 101281601
+    },
+    "441900123": {
+      "cityName": "沙田镇",
+      "unofficeCityName": "沙田镇",
+      "weatherId": 101281601
+    },
+    "441900124": {
+      "cityName": "道滘镇",
+      "unofficeCityName": "道滘镇",
+      "weatherId": 101281601
+    },
+    "441900125": {
+      "cityName": "洪梅镇",
+      "unofficeCityName": "洪梅镇",
+      "weatherId": 101281601
+    },
+    "441900126": {
+      "cityName": "麻涌镇",
+      "unofficeCityName": "麻涌镇",
+      "weatherId": 101281601
+    },
+    "441900127": {
+      "cityName": "望牛墩镇",
+      "unofficeCityName": "望牛墩镇",
+      "weatherId": 101281601
+    },
+    "441900128": {
+      "cityName": "中堂镇",
+      "unofficeCityName": "中堂镇",
+      "weatherId": 101281601
+    },
+    "441900129": {
+      "cityName": "高埗镇",
+      "unofficeCityName": "高埗镇",
+      "weatherId": 101281601
+    },
+    "441900401": {
+      "cityName": "松山湖",
+      "unofficeCityName": "松山湖",
+      "weatherId": 101281601
+    },
+    "441900402": {
+      "cityName": "东莞港",
+      "unofficeCityName": "东莞港",
+      "weatherId": 101281601
+    },
+    "441900403": {
       "cityName": "东莞生态园",
       "unofficeCityName": "东莞生态园",
       "weatherId": 101281601
-    },
-    "441900003": "东城街道",
-    "441900004": "南城街道",
-    "441900005": "万江街道",
-    "441900006": "莞城街道",
-    "441900101": "石碣镇",
-    "441900102": "石龙镇",
-    "441900103": "茶山镇",
-    "441900104": "石排镇",
-    "441900105": "企石镇",
-    "441900106": "横沥镇",
-    "441900107": "桥头镇",
-    "441900108": "谢岗镇",
-    "441900109": "东坑镇",
-    "441900110": "常平镇",
-    "441900111": "寮步镇",
-    "441900112": "樟木头镇",
-    "441900113": "大朗镇",
-    "441900114": "黄江镇",
-    "441900115": "清溪镇",
-    "441900116": "塘厦镇",
-    "441900117": "凤岗镇",
-    "441900118": "大岭山镇",
-    "441900119": "长安镇",
-    "441900121": "虎门镇",
-    "441900122": "厚街镇",
-    "441900123": "沙田镇",
-    "441900124": "道滘镇",
-    "441900125": "洪梅镇",
-    "441900126": "麻涌镇",
-    "441900127": "望牛墩镇",
-    "441900128": "中堂镇",
-    "441900129": "高埗镇",
-    "441900401": "松山湖",
-    "441900402": "东莞港",
-    "441900403": "东莞生态园"
+    }
   },
   "442000": {
-    "442000": {
+    "442000001": {
+      "cityName": "石岐街道",
+      "unofficeCityName": "石岐街道",
+      "weatherId": 101281701
+    },
+    "442000002": {
+      "cityName": "东区街道",
+      "unofficeCityName": "东街道",
+      "weatherId": 101281701
+    },
+    "442000003": {
+      "cityName": "中山港街道",
+      "unofficeCityName": "中山港街道",
+      "weatherId": 101281701
+    },
+    "442000004": {
+      "cityName": "西区街道",
+      "unofficeCityName": "西街道",
+      "weatherId": 101281701
+    },
+    "442000005": {
+      "cityName": "南区街道",
+      "unofficeCityName": "南街道",
+      "weatherId": 101281701
+    },
+    "442000006": {
+      "cityName": "五桂山街道",
+      "unofficeCityName": "五桂山街道",
+      "weatherId": 101281701
+    },
+    "442000100": {
+      "cityName": "小榄镇",
+      "unofficeCityName": "小榄镇",
+      "weatherId": 101281701
+    },
+    "442000101": {
+      "cityName": "黄圃镇",
+      "unofficeCityName": "黄圃镇",
+      "weatherId": 101281701
+    },
+    "442000102": {
+      "cityName": "民众镇",
+      "unofficeCityName": "民众镇",
+      "weatherId": 101281701
+    },
+    "442000103": {
+      "cityName": "东凤镇",
+      "unofficeCityName": "东凤镇",
+      "weatherId": 101281701
+    },
+    "442000104": {
+      "cityName": "东升镇",
+      "unofficeCityName": "东升镇",
+      "weatherId": 101281701
+    },
+    "442000105": {
+      "cityName": "古镇镇",
+      "unofficeCityName": "古镇镇",
+      "weatherId": 101281701
+    },
+    "442000106": {
+      "cityName": "沙溪镇",
+      "unofficeCityName": "沙溪镇",
+      "weatherId": 101281701
+    },
+    "442000107": {
+      "cityName": "坦洲镇",
+      "unofficeCityName": "坦洲镇",
+      "weatherId": 101281701
+    },
+    "442000108": {
+      "cityName": "港口镇",
+      "unofficeCityName": "港口镇",
+      "weatherId": 101281701
+    },
+    "442000109": {
+      "cityName": "三角镇",
+      "unofficeCityName": "三角镇",
+      "weatherId": 101281701
+    },
+    "442000110": {
+      "cityName": "横栏镇",
+      "unofficeCityName": "横栏镇",
+      "weatherId": 101281701
+    },
+    "442000111": {
+      "cityName": "南头镇",
+      "unofficeCityName": "南头镇",
+      "weatherId": 101281701
+    },
+    "442000112": {
+      "cityName": "阜沙镇",
+      "unofficeCityName": "阜沙镇",
+      "weatherId": 101281701
+    },
+    "442000113": {
+      "cityName": "南朗镇",
+      "unofficeCityName": "南朗镇",
+      "weatherId": 101281701
+    },
+    "442000114": {
+      "cityName": "三乡镇",
+      "unofficeCityName": "三乡镇",
+      "weatherId": 101281701
+    },
+    "442000115": {
+      "cityName": "板芙镇",
+      "unofficeCityName": "板芙镇",
+      "weatherId": 101281701
+    },
+    "442000116": {
+      "cityName": "大涌镇",
+      "unofficeCityName": "大涌镇",
+      "weatherId": 101281701
+    },
+    "442000117": {
       "cityName": "神湾镇",
       "unofficeCityName": "神湾镇",
       "weatherId": 101281701
-    },
-    "442000001": "石岐街道",
-    "442000002": "东区街道",
-    "442000003": "中山港街道",
-    "442000004": "西区街道",
-    "442000005": "南区街道",
-    "442000006": "五桂山街道",
-    "442000100": "小榄镇",
-    "442000101": "黄圃镇",
-    "442000102": "民众镇",
-    "442000103": "东凤镇",
-    "442000104": "东升镇",
-    "442000105": "古镇镇",
-    "442000106": "沙溪镇",
-    "442000107": "坦洲镇",
-    "442000108": "港口镇",
-    "442000109": "三角镇",
-    "442000110": "横栏镇",
-    "442000111": "南头镇",
-    "442000112": "阜沙镇",
-    "442000113": "南朗镇",
-    "442000114": "三乡镇",
-    "442000115": "板芙镇",
-    "442000116": "大涌镇",
-    "442000117": "神湾镇"
+    }
   },
   "445100": {
     "445101": {
@@ -12604,7 +12830,7 @@ const data = {
     },
     "445202": {
       "cityName": "榕城区",
-      "unofficeCityName": "榕",
+      "unofficeCityName": "榕城区",
       "weatherId": 101281901
     },
     "445203": {
@@ -12636,7 +12862,7 @@ const data = {
     },
     "445302": {
       "cityName": "云城区",
-      "unofficeCityName": "云",
+      "unofficeCityName": "云城区",
       "weatherId": 101281401
     },
     "445303": {
@@ -12795,8 +13021,8 @@ const data = {
     },
     "450127": {
       "cityName": "横县",
-      "unofficeCityName": "横",
-      "weatherId": 101300101
+      "unofficeCityName": "横县",
+      "weatherId": 101300104
     }
   },
   "450200": {
@@ -12847,13 +13073,13 @@ const data = {
     },
     "450225": {
       "cityName": "融水苗族自治县",
-      "unofficeCityName": "融水苗族",
-      "weatherId": 101300301
+      "unofficeCityName": "融水",
+      "weatherId": 101300307
     },
     "450226": {
       "cityName": "三江侗族自治县",
-      "unofficeCityName": "三江侗族",
-      "weatherId": 101300301
+      "unofficeCityName": "三江",
+      "weatherId": 101300308
     }
   },
   "450300": {
@@ -12939,8 +13165,8 @@ const data = {
     },
     "450332": {
       "cityName": "恭城瑶族自治县",
-      "unofficeCityName": "恭城瑶族",
-      "weatherId": 101300501
+      "unofficeCityName": "恭城",
+      "weatherId": 101300511
     },
     "450381": {
       "cityName": "荔浦市",
@@ -12976,8 +13202,8 @@ const data = {
     },
     "450422": {
       "cityName": "藤县",
-      "unofficeCityName": "藤",
-      "weatherId": 101300601
+      "unofficeCityName": "藤县",
+      "weatherId": 101300602
     },
     "450423": {
       "cityName": "蒙山县",
@@ -12998,7 +13224,7 @@ const data = {
     },
     "450502": {
       "cityName": "海城区",
-      "unofficeCityName": "海",
+      "unofficeCityName": "海城区",
       "weatherId": 101301301
     },
     "450503": {
@@ -13030,7 +13256,7 @@ const data = {
     },
     "450603": {
       "cityName": "防城区",
-      "unofficeCityName": "防",
+      "unofficeCityName": "防城区",
       "weatherId": 101301401
     },
     "450621": {
@@ -13121,8 +13347,8 @@ const data = {
     },
     "450921": {
       "cityName": "容县",
-      "unofficeCityName": "容",
-      "weatherId": 101300901
+      "unofficeCityName": "容县",
+      "weatherId": 101300904
     },
     "450922": {
       "cityName": "陆川县",
@@ -13240,8 +13466,8 @@ const data = {
     },
     "451123": {
       "cityName": "富川瑶族自治县",
-      "unofficeCityName": "富川瑶族",
-      "weatherId": 101300701
+      "unofficeCityName": "富川",
+      "weatherId": 101300703
     }
   },
   "451200": {
@@ -13282,27 +13508,27 @@ const data = {
     },
     "451225": {
       "cityName": "罗城仫佬族自治县",
-      "unofficeCityName": "罗城仫佬族",
-      "weatherId": 101301201
+      "unofficeCityName": "罗城",
+      "weatherId": 101301206
     },
     "451226": {
       "cityName": "环江毛南族自治县",
-      "unofficeCityName": "环江毛南族",
-      "weatherId": 101301201
+      "unofficeCityName": "环江",
+      "weatherId": 101301205
     },
     "451227": {
       "cityName": "巴马瑶族自治县",
-      "unofficeCityName": "巴马瑶族",
-      "weatherId": 101301201
+      "unofficeCityName": "巴马",
+      "weatherId": 101301204
     },
     "451228": {
       "cityName": "都安瑶族自治县",
-      "unofficeCityName": "都安瑶族",
-      "weatherId": 101301201
+      "unofficeCityName": "都安",
+      "weatherId": 101301210
     },
     "451229": {
       "cityName": "大化瑶族自治县",
-      "unofficeCityName": "大化瑶族",
+      "unofficeCityName": "大化",
       "weatherId": 101301201
     }
   },
@@ -13334,8 +13560,8 @@ const data = {
     },
     "451324": {
       "cityName": "金秀瑶族自治县",
-      "unofficeCityName": "金秀瑶族",
-      "weatherId": 101300401
+      "unofficeCityName": "金秀",
+      "weatherId": 101300403
     },
     "451381": {
       "cityName": "合山市",
@@ -13408,7 +13634,7 @@ const data = {
     },
     "469000": {
       "cityName": "省直辖县级行政区划",
-      "unofficeCityName": "直辖级行政划",
+      "unofficeCityName": "直辖县级行政区划",
       "weatherId": 101310101
     }
   },
@@ -13484,29 +13710,96 @@ const data = {
     }
   },
   "460400": {
-    "460400": {
+    "460400100": {
+      "cityName": "那大镇",
+      "unofficeCityName": "那大镇",
+      "weatherId": 101310205
+    },
+    "460400101": {
+      "cityName": "和庆镇",
+      "unofficeCityName": "和庆镇",
+      "weatherId": 101310205
+    },
+    "460400102": {
+      "cityName": "南丰镇",
+      "unofficeCityName": "南丰镇",
+      "weatherId": 101310205
+    },
+    "460400103": {
+      "cityName": "大成镇",
+      "unofficeCityName": "大成镇",
+      "weatherId": 101310205
+    },
+    "460400104": {
+      "cityName": "雅星镇",
+      "unofficeCityName": "雅星镇",
+      "weatherId": 101310205
+    },
+    "460400105": {
+      "cityName": "兰洋镇",
+      "unofficeCityName": "兰洋镇",
+      "weatherId": 101310205
+    },
+    "460400106": {
+      "cityName": "光村镇",
+      "unofficeCityName": "光村镇",
+      "weatherId": 101310205
+    },
+    "460400107": {
+      "cityName": "木棠镇",
+      "unofficeCityName": "木棠镇",
+      "weatherId": 101310205
+    },
+    "460400108": {
+      "cityName": "海头镇",
+      "unofficeCityName": "海头镇",
+      "weatherId": 101310205
+    },
+    "460400109": {
+      "cityName": "峨蔓镇",
+      "unofficeCityName": "峨蔓镇",
+      "weatherId": 101310205
+    },
+    "460400111": {
+      "cityName": "王五镇",
+      "unofficeCityName": "王五镇",
+      "weatherId": 101310205
+    },
+    "460400112": {
+      "cityName": "白马井镇",
+      "unofficeCityName": "白马井镇",
+      "weatherId": 101310205
+    },
+    "460400113": {
+      "cityName": "中和镇",
+      "unofficeCityName": "中和镇",
+      "weatherId": 101310205
+    },
+    "460400114": {
+      "cityName": "排浦镇",
+      "unofficeCityName": "排浦镇",
+      "weatherId": 101310205
+    },
+    "460400115": {
+      "cityName": "东成镇",
+      "unofficeCityName": "东成镇",
+      "weatherId": 101310205
+    },
+    "460400116": {
+      "cityName": "新州镇",
+      "unofficeCityName": "新州镇",
+      "weatherId": 101310205
+    },
+    "460400499": {
+      "cityName": "洋浦经济开发区",
+      "unofficeCityName": "洋浦",
+      "weatherId": 101310205
+    },
+    "460400500": {
       "cityName": "华南热作学院",
       "unofficeCityName": "华南热作学院",
       "weatherId": 101310205
-    },
-    "460400100": "那大镇",
-    "460400101": "和庆镇",
-    "460400102": "南丰镇",
-    "460400103": "大成镇",
-    "460400104": "雅星镇",
-    "460400105": "兰洋镇",
-    "460400106": "光村镇",
-    "460400107": "木棠镇",
-    "460400108": "海头镇",
-    "460400109": "峨蔓镇",
-    "460400111": "王五镇",
-    "460400112": "白马井镇",
-    "460400113": "中和镇",
-    "460400114": "排浦镇",
-    "460400115": "东成镇",
-    "460400116": "新州镇",
-    "460400499": "洋浦经济开发区",
-    "460400500": "华南热作学院"
+    }
   },
   "469000": {
     "469001": {
@@ -13556,32 +13849,32 @@ const data = {
     },
     "469025": {
       "cityName": "白沙黎族自治县",
-      "unofficeCityName": "白沙黎族",
-      "weatherId": 101310101
+      "unofficeCityName": "白沙",
+      "weatherId": 101310207
     },
     "469026": {
       "cityName": "昌江黎族自治县",
-      "unofficeCityName": "昌江黎族",
-      "weatherId": 101310101
+      "unofficeCityName": "昌江",
+      "weatherId": 101310206
     },
     "469027": {
       "cityName": "乐东黎族自治县",
-      "unofficeCityName": "乐东黎族",
-      "weatherId": 101310101
+      "unofficeCityName": "乐东",
+      "weatherId": 101310221
     },
     "469028": {
       "cityName": "陵水黎族自治县",
-      "unofficeCityName": "陵水黎族",
-      "weatherId": 101310101
+      "unofficeCityName": "陵水",
+      "weatherId": 101310216
     },
     "469029": {
       "cityName": "保亭黎族苗族自治县",
-      "unofficeCityName": "保亭黎族苗族",
+      "unofficeCityName": "保亭黎族",
       "weatherId": 101310101
     },
     "469030": {
       "cityName": "琼中黎族苗族自治县",
-      "unofficeCityName": "琼中黎族苗族",
+      "unofficeCityName": "琼中黎族",
       "weatherId": 101310101
     }
   },
@@ -13593,6 +13886,7 @@ const data = {
     },
     "500200": {
       "cityName": "县",
+      "unofficeCityName": "县",
       "weatherId": 101040100
     }
   },
@@ -13746,8 +14040,8 @@ const data = {
     },
     "500233": {
       "cityName": "忠县",
-      "unofficeCityName": "忠",
-      "weatherId": 101040100
+      "unofficeCityName": "忠县",
+      "weatherId": 101042400
     },
     "500235": {
       "cityName": "云阳县",
@@ -13771,23 +14065,23 @@ const data = {
     },
     "500240": {
       "cityName": "石柱土家族自治县",
-      "unofficeCityName": "石柱土家族",
-      "weatherId": 101040100
+      "unofficeCityName": "石柱",
+      "weatherId": 101042500
     },
     "500241": {
       "cityName": "秀山土家族苗族自治县",
-      "unofficeCityName": "秀山土家族苗族",
+      "unofficeCityName": "秀山土家族",
       "weatherId": 101040100
     },
     "500242": {
       "cityName": "酉阳土家族苗族自治县",
-      "unofficeCityName": "酉阳土家族苗族",
+      "unofficeCityName": "酉阳土家族",
       "weatherId": 101040100
     },
     "500243": {
       "cityName": "彭水苗族土家族自治县",
-      "unofficeCityName": "彭水苗族土家族",
-      "weatherId": 101040100
+      "unofficeCityName": "彭水",
+      "weatherId": 101043200
     }
   },
   "510000": {
@@ -13883,18 +14177,18 @@ const data = {
     },
     "513200": {
       "cityName": "阿坝藏族羌族自治州",
-      "unofficeCityName": "阿坝藏族羌族",
-      "weatherId": 101270101
+      "unofficeCityName": "阿坝",
+      "weatherId": 101271901
     },
     "513300": {
       "cityName": "甘孜藏族自治州",
-      "unofficeCityName": "甘孜藏族",
-      "weatherId": 101270101
+      "unofficeCityName": "甘孜",
+      "weatherId": 101271801
     },
     "513400": {
       "cityName": "凉山彝族自治州",
-      "unofficeCityName": "凉山彝族",
-      "weatherId": 101270101
+      "unofficeCityName": "凉山",
+      "weatherId": 101271601
     }
   },
   "510100": {
@@ -14032,8 +14326,8 @@ const data = {
     },
     "510321": {
       "cityName": "荣县",
-      "unofficeCityName": "荣",
-      "weatherId": 101270301
+      "unofficeCityName": "荣县",
+      "weatherId": 101270303
     },
     "510322": {
       "cityName": "富顺县",
@@ -14049,12 +14343,12 @@ const data = {
     },
     "510402": {
       "cityName": "东区",
-      "unofficeCityName": "东",
+      "unofficeCityName": "东区",
       "weatherId": 101270201
     },
     "510403": {
       "cityName": "西区",
-      "unofficeCityName": "西",
+      "unofficeCityName": "西区",
       "weatherId": 101270201
     },
     "510411": {
@@ -14096,8 +14390,8 @@ const data = {
     },
     "510521": {
       "cityName": "泸县",
-      "unofficeCityName": "泸",
-      "weatherId": 101271001
+      "unofficeCityName": "泸县",
+      "weatherId": 101271003
     },
     "510522": {
       "cityName": "合江县",
@@ -14160,7 +14454,7 @@ const data = {
     },
     "510703": {
       "cityName": "涪城区",
-      "unofficeCityName": "涪",
+      "unofficeCityName": "涪城区",
       "weatherId": 101270401
     },
     "510704": {
@@ -14190,8 +14484,8 @@ const data = {
     },
     "510726": {
       "cityName": "北川羌族自治县",
-      "unofficeCityName": "北川羌族",
-      "weatherId": 101270401
+      "unofficeCityName": "北川",
+      "weatherId": 101270406
     },
     "510727": {
       "cityName": "平武县",
@@ -14286,7 +14580,7 @@ const data = {
     },
     "511002": {
       "cityName": "市中区",
-      "unofficeCityName": "中",
+      "unofficeCityName": "中区",
       "weatherId": 101271201
     },
     "511011": {
@@ -14306,7 +14600,7 @@ const data = {
     },
     "511071": {
       "cityName": "内江经济开发区",
-      "unofficeCityName": "内江经济开发",
+      "unofficeCityName": "内江",
       "weatherId": 101271201
     },
     "511083": {
@@ -14323,7 +14617,7 @@ const data = {
     },
     "511102": {
       "cityName": "市中区",
-      "unofficeCityName": "中",
+      "unofficeCityName": "中区",
       "weatherId": 101271401
     },
     "511111": {
@@ -14363,13 +14657,13 @@ const data = {
     },
     "511132": {
       "cityName": "峨边彝族自治县",
-      "unofficeCityName": "峨边彝族",
-      "weatherId": 101271401
+      "unofficeCityName": "峨边",
+      "weatherId": 101271406
     },
     "511133": {
       "cityName": "马边彝族自治县",
-      "unofficeCityName": "马边彝族",
-      "weatherId": 101271401
+      "unofficeCityName": "马边",
+      "weatherId": 101271407
     },
     "511181": {
       "cityName": "峨眉山市",
@@ -14499,13 +14793,13 @@ const data = {
     },
     "511525": {
       "cityName": "高县",
-      "unofficeCityName": "高",
-      "weatherId": 101271101
+      "unofficeCityName": "高县",
+      "weatherId": 101271107
     },
     "511526": {
       "cityName": "珙县",
-      "unofficeCityName": "珙",
-      "weatherId": 101271101
+      "unofficeCityName": "珙县",
+      "weatherId": 101271108
     },
     "511527": {
       "cityName": "筠连县",
@@ -14593,12 +14887,12 @@ const data = {
     },
     "511725": {
       "cityName": "渠县",
-      "unofficeCityName": "渠",
-      "weatherId": 101270601
+      "unofficeCityName": "渠县",
+      "weatherId": 101270605
     },
     "511771": {
       "cityName": "达州经济开发区",
-      "unofficeCityName": "达州经济开发",
+      "unofficeCityName": "达州",
       "weatherId": 101270601
     },
     "511781": {
@@ -14615,7 +14909,7 @@ const data = {
     },
     "511802": {
       "cityName": "雨城区",
-      "unofficeCityName": "雨",
+      "unofficeCityName": "雨城区",
       "weatherId": 101271701
     },
     "511803": {
@@ -14687,7 +14981,7 @@ const data = {
     },
     "511971": {
       "cityName": "巴中经济开发区",
-      "unofficeCityName": "巴中经济开发",
+      "unofficeCityName": "巴中",
       "weatherId": 101270901
     }
   },
@@ -14726,13 +15020,13 @@ const data = {
     },
     "513222": {
       "cityName": "理县",
-      "unofficeCityName": "理",
-      "weatherId": 101270101
+      "unofficeCityName": "理县",
+      "weatherId": 101271903
     },
     "513223": {
       "cityName": "茂县",
-      "unofficeCityName": "茂",
-      "weatherId": 101270101
+      "unofficeCityName": "茂县",
+      "weatherId": 101271904
     },
     "513224": {
       "cityName": "松潘县",
@@ -14880,8 +15174,8 @@ const data = {
     },
     "513422": {
       "cityName": "木里藏族自治县",
-      "unofficeCityName": "木里藏族",
-      "weatherId": 101270101
+      "unofficeCityName": "木里",
+      "weatherId": 101271603
     },
     "513423": {
       "cityName": "盐源县",
@@ -14992,17 +15286,17 @@ const data = {
     },
     "522300": {
       "cityName": "黔西南布依族苗族自治州",
-      "unofficeCityName": "黔西南布依族苗族",
+      "unofficeCityName": "黔西南布依族",
       "weatherId": 101260101
     },
     "522600": {
       "cityName": "黔东南苗族侗族自治州",
-      "unofficeCityName": "黔东南苗族侗族",
+      "unofficeCityName": "黔东南",
       "weatherId": 101260101
     },
     "522700": {
       "cityName": "黔南布依族苗族自治州",
-      "unofficeCityName": "黔南布依族苗族",
+      "unofficeCityName": "黔南布依族",
       "weatherId": 101260101
     }
   },
@@ -15123,12 +15417,12 @@ const data = {
     },
     "520325": {
       "cityName": "道真仡佬族苗族自治县",
-      "unofficeCityName": "道真仡佬族苗族",
+      "unofficeCityName": "道真仡佬族",
       "weatherId": 101260201
     },
     "520326": {
       "cityName": "务川仡佬族苗族自治县",
-      "unofficeCityName": "务川仡佬族苗族",
+      "unofficeCityName": "务川仡佬族",
       "weatherId": 101260201
     },
     "520327": {
@@ -15185,18 +15479,18 @@ const data = {
     },
     "520423": {
       "cityName": "镇宁布依族苗族自治县",
-      "unofficeCityName": "镇宁布依族苗族",
+      "unofficeCityName": "镇宁布依族",
       "weatherId": 101260301
     },
     "520424": {
       "cityName": "关岭布依族苗族自治县",
-      "unofficeCityName": "关岭布依族苗族",
+      "unofficeCityName": "关岭布依族",
       "weatherId": 101260301
     },
     "520425": {
       "cityName": "紫云苗族布依族自治县",
-      "unofficeCityName": "紫云苗族布依族",
-      "weatherId": 101260301
+      "unofficeCityName": "紫云",
+      "weatherId": 101260305
     }
   },
   "520500": {
@@ -15237,7 +15531,7 @@ const data = {
     },
     "520526": {
       "cityName": "威宁彝族回族苗族自治县",
-      "unofficeCityName": "威宁彝族回族苗族",
+      "unofficeCityName": "威宁彝族",
       "weatherId": 101260701
     },
     "520527": {
@@ -15269,8 +15563,8 @@ const data = {
     },
     "520622": {
       "cityName": "玉屏侗族自治县",
-      "unofficeCityName": "玉屏侗族",
-      "weatherId": 101260601
+      "unofficeCityName": "玉屏",
+      "weatherId": 101260603
     },
     "520623": {
       "cityName": "石阡县",
@@ -15284,7 +15578,7 @@ const data = {
     },
     "520625": {
       "cityName": "印江土家族苗族自治县",
-      "unofficeCityName": "印江土家族苗族",
+      "unofficeCityName": "印江土家族",
       "weatherId": 101260601
     },
     "520626": {
@@ -15294,13 +15588,13 @@ const data = {
     },
     "520627": {
       "cityName": "沿河土家族自治县",
-      "unofficeCityName": "沿河土家族",
-      "weatherId": 101260601
+      "unofficeCityName": "沿河",
+      "weatherId": 101260609
     },
     "520628": {
       "cityName": "松桃苗族自治县",
-      "unofficeCityName": "松桃苗族",
-      "weatherId": 101260601
+      "unofficeCityName": "松桃",
+      "weatherId": 101260611
     }
   },
   "522300": {
@@ -15485,8 +15779,8 @@ const data = {
     },
     "522732": {
       "cityName": "三都水族自治县",
-      "unofficeCityName": "三都水族",
-      "weatherId": 101260101
+      "unofficeCityName": "三都",
+      "weatherId": 101260411
     }
   },
   "530000": {
@@ -15532,42 +15826,42 @@ const data = {
     },
     "532300": {
       "cityName": "楚雄彝族自治州",
-      "unofficeCityName": "楚雄彝族",
-      "weatherId": 101290101
+      "unofficeCityName": "楚雄",
+      "weatherId": 101290801
     },
     "532500": {
       "cityName": "红河哈尼族彝族自治州",
-      "unofficeCityName": "红河哈尼族彝族",
+      "unofficeCityName": "红河哈尼族",
       "weatherId": 101290101
     },
     "532600": {
       "cityName": "文山壮族苗族自治州",
-      "unofficeCityName": "文山壮族苗族",
-      "weatherId": 101290101
+      "unofficeCityName": "文山",
+      "weatherId": 101290601
     },
     "532800": {
       "cityName": "西双版纳傣族自治州",
-      "unofficeCityName": "西双版纳傣族",
+      "unofficeCityName": "西双版纳",
       "weatherId": 101290101
     },
     "532900": {
       "cityName": "大理白族自治州",
-      "unofficeCityName": "大理白族",
-      "weatherId": 101290101
+      "unofficeCityName": "大理",
+      "weatherId": 101290201
     },
     "533100": {
       "cityName": "德宏傣族景颇族自治州",
-      "unofficeCityName": "德宏傣族景颇族",
-      "weatherId": 101290101
+      "unofficeCityName": "德宏",
+      "weatherId": 101291501
     },
     "533300": {
       "cityName": "怒江傈僳族自治州",
-      "unofficeCityName": "怒江傈僳族",
-      "weatherId": 101290101
+      "unofficeCityName": "怒江",
+      "weatherId": 101291201
     },
     "533400": {
       "cityName": "迪庆藏族自治州",
-      "unofficeCityName": "迪庆藏族",
+      "unofficeCityName": "迪庆",
       "weatherId": 101290101
     }
   },
@@ -15624,8 +15918,8 @@ const data = {
     },
     "530126": {
       "cityName": "石林彝族自治县",
-      "unofficeCityName": "石林彝族",
-      "weatherId": 101290101
+      "unofficeCityName": "石林",
+      "weatherId": 101290107
     },
     "530127": {
       "cityName": "嵩明县",
@@ -15634,13 +15928,13 @@ const data = {
     },
     "530128": {
       "cityName": "禄劝彝族苗族自治县",
-      "unofficeCityName": "禄劝彝族苗族",
+      "unofficeCityName": "禄劝彝族",
       "weatherId": 101290101
     },
     "530129": {
       "cityName": "寻甸回族彝族自治县",
-      "unofficeCityName": "寻甸回族彝族",
-      "weatherId": 101290101
+      "unofficeCityName": "寻甸",
+      "weatherId": 101290104
     },
     "530181": {
       "cityName": "安宁市",
@@ -15738,17 +16032,17 @@ const data = {
     },
     "530426": {
       "cityName": "峨山彝族自治县",
-      "unofficeCityName": "峨山彝族",
-      "weatherId": 101290701
+      "unofficeCityName": "峨山",
+      "weatherId": 101290708
     },
     "530427": {
       "cityName": "新平彝族傣族自治县",
-      "unofficeCityName": "新平彝族傣族",
-      "weatherId": 101290701
+      "unofficeCityName": "新平",
+      "weatherId": 101290706
     },
     "530428": {
       "cityName": "元江哈尼族彝族傣族自治县",
-      "unofficeCityName": "元江哈尼族彝族傣族",
+      "unofficeCityName": "元江哈尼族",
       "weatherId": 101290701
     }
   },
@@ -15854,12 +16148,12 @@ const data = {
     },
     "530702": {
       "cityName": "古城区",
-      "unofficeCityName": "古",
+      "unofficeCityName": "古城区",
       "weatherId": 101291401
     },
     "530721": {
       "cityName": "玉龙纳西族自治县",
-      "unofficeCityName": "玉龙纳西族",
+      "unofficeCityName": "玉龙",
       "weatherId": 101291401
     },
     "530722": {
@@ -15874,8 +16168,8 @@ const data = {
     },
     "530724": {
       "cityName": "宁蒗彝族自治县",
-      "unofficeCityName": "宁蒗彝族",
-      "weatherId": 101291401
+      "unofficeCityName": "宁蒗",
+      "weatherId": 101291404
     }
   },
   "530800": {
@@ -15891,48 +16185,48 @@ const data = {
     },
     "530821": {
       "cityName": "宁洱哈尼族彝族自治县",
-      "unofficeCityName": "宁洱哈尼族彝族",
+      "unofficeCityName": "宁洱哈尼族",
       "weatherId": 101290901
     },
     "530822": {
       "cityName": "墨江哈尼族自治县",
-      "unofficeCityName": "墨江哈尼族",
-      "weatherId": 101290901
+      "unofficeCityName": "墨江",
+      "weatherId": 101290906
     },
     "530823": {
       "cityName": "景东彝族自治县",
-      "unofficeCityName": "景东彝族",
-      "weatherId": 101290901
+      "unofficeCityName": "景东",
+      "weatherId": 101290903
     },
     "530824": {
       "cityName": "景谷傣族彝族自治县",
-      "unofficeCityName": "景谷傣族彝族",
+      "unofficeCityName": "景谷傣族",
       "weatherId": 101290901
     },
     "530825": {
       "cityName": "镇沅彝族哈尼族拉祜族自治县",
-      "unofficeCityName": "镇沅彝族哈尼族拉祜族",
-      "weatherId": 101290901
+      "unofficeCityName": "镇沅",
+      "weatherId": 101290911
     },
     "530826": {
       "cityName": "江城哈尼族彝族自治县",
-      "unofficeCityName": "江城哈尼族彝族",
+      "unofficeCityName": "江城哈尼族",
       "weatherId": 101290901
     },
     "530827": {
       "cityName": "孟连傣族拉祜族佤族自治县",
-      "unofficeCityName": "孟连傣族拉祜族佤族",
-      "weatherId": 101290901
+      "unofficeCityName": "孟连",
+      "weatherId": 101290908
     },
     "530828": {
       "cityName": "澜沧拉祜族自治县",
-      "unofficeCityName": "澜沧拉祜族",
-      "weatherId": 101290901
+      "unofficeCityName": "澜沧",
+      "weatherId": 101290904
     },
     "530829": {
       "cityName": "西盟佤族自治县",
-      "unofficeCityName": "西盟佤族",
-      "weatherId": 101290901
+      "unofficeCityName": "西盟",
+      "weatherId": 101290909
     }
   },
   "530900": {
@@ -15953,8 +16247,8 @@ const data = {
     },
     "530922": {
       "cityName": "云县",
-      "unofficeCityName": "云",
-      "weatherId": 101291101
+      "unofficeCityName": "云县",
+      "weatherId": 101291107
     },
     "530923": {
       "cityName": "永德县",
@@ -15968,18 +16262,18 @@ const data = {
     },
     "530925": {
       "cityName": "双江拉祜族佤族布朗族傣族自治县",
-      "unofficeCityName": "双江拉祜族佤族布朗族傣族",
+      "unofficeCityName": "双江拉祜族佤族布朗族",
       "weatherId": 101291101
     },
     "530926": {
       "cityName": "耿马傣族佤族自治县",
-      "unofficeCityName": "耿马傣族佤族",
-      "weatherId": 101291101
+      "unofficeCityName": "耿马",
+      "weatherId": 101291103
     },
     "530927": {
       "cityName": "沧源佤族自治县",
-      "unofficeCityName": "沧源佤族",
-      "weatherId": 101291101
+      "unofficeCityName": "沧源",
+      "weatherId": 101291102
     }
   },
   "532300": {
@@ -16057,8 +16351,8 @@ const data = {
     },
     "532523": {
       "cityName": "屏边苗族自治县",
-      "unofficeCityName": "屏边苗族",
-      "weatherId": 101290101
+      "unofficeCityName": "屏边",
+      "weatherId": 101290310
     },
     "532524": {
       "cityName": "建水县",
@@ -16087,8 +16381,8 @@ const data = {
     },
     "532530": {
       "cityName": "金平苗族瑶族傣族自治县",
-      "unofficeCityName": "金平苗族瑶族傣族",
-      "weatherId": 101290101
+      "unofficeCityName": "金平",
+      "weatherId": 101290312
     },
     "532531": {
       "cityName": "绿春县",
@@ -16097,8 +16391,8 @@ const data = {
     },
     "532532": {
       "cityName": "河口瑶族自治县",
-      "unofficeCityName": "河口瑶族",
-      "weatherId": 101290101
+      "unofficeCityName": "河口",
+      "weatherId": 101121202
     }
   },
   "532600": {
@@ -16130,7 +16424,7 @@ const data = {
     "532626": {
       "cityName": "丘北县",
       "unofficeCityName": "丘北",
-      "weatherId": 101290101
+      "weatherId": 101290601
     },
     "532627": {
       "cityName": "广南县",
@@ -16168,8 +16462,8 @@ const data = {
     },
     "532922": {
       "cityName": "漾濞彝族自治县",
-      "unofficeCityName": "漾濞彝族",
-      "weatherId": 101290101
+      "unofficeCityName": "漾濞",
+      "weatherId": 101290201
     },
     "532923": {
       "cityName": "祥云县",
@@ -16188,13 +16482,13 @@ const data = {
     },
     "532926": {
       "cityName": "南涧彝族自治县",
-      "unofficeCityName": "南涧彝族",
-      "weatherId": 101290101
+      "unofficeCityName": "南涧",
+      "weatherId": 101290212
     },
     "532927": {
       "cityName": "巍山彝族回族自治县",
-      "unofficeCityName": "巍山彝族回族",
-      "weatherId": 101290101
+      "unofficeCityName": "巍山彝族",
+      "weatherId": 101290201
     },
     "532928": {
       "cityName": "永平县",
@@ -16230,8 +16524,8 @@ const data = {
     },
     "533103": {
       "cityName": "芒市",
-      "unofficeCityName": "芒",
-      "weatherId": 101290101
+      "unofficeCityName": "芒市",
+      "weatherId": 101291501
     },
     "533122": {
       "cityName": "梁河县",
@@ -16262,13 +16556,13 @@ const data = {
     },
     "533324": {
       "cityName": "贡山独龙族怒族自治县",
-      "unofficeCityName": "贡山独龙族怒族",
-      "weatherId": 101290101
+      "unofficeCityName": "贡山独龙族",
+      "weatherId": 101291201
     },
     "533325": {
       "cityName": "兰坪白族普米族自治县",
-      "unofficeCityName": "兰坪白族普米族",
-      "weatherId": 101290101
+      "unofficeCityName": "兰坪",
+      "weatherId": 101291204
     }
   },
   "533400": {
@@ -16284,8 +16578,8 @@ const data = {
     },
     "533423": {
       "cityName": "维西傈僳族自治县",
-      "unofficeCityName": "维西傈僳族",
-      "weatherId": 101290101
+      "unofficeCityName": "维西",
+      "weatherId": 101291303
     }
   },
   "540000": {
@@ -16373,12 +16667,12 @@ const data = {
     },
     "540171": {
       "cityName": "格尔木藏青工业园区",
-      "unofficeCityName": "格尔木藏青工业园",
+      "unofficeCityName": "格尔木藏青",
       "weatherId": 101140101
     },
     "540172": {
       "cityName": "拉萨经济技术开发区",
-      "unofficeCityName": "拉萨经济技术开发",
+      "unofficeCityName": "拉萨",
       "weatherId": 101140101
     },
     "540173": {
@@ -16388,7 +16682,7 @@ const data = {
     },
     "540174": {
       "cityName": "达孜工业园区",
-      "unofficeCityName": "达孜工业园",
+      "unofficeCityName": "达孜",
       "weatherId": 101140101
     }
   },
@@ -16574,7 +16868,7 @@ const data = {
     },
     "540426": {
       "cityName": "朗县",
-      "unofficeCityName": "朗",
+      "unofficeCityName": "朗县",
       "weatherId": 101140401
     }
   },
@@ -16678,8 +16972,8 @@ const data = {
     },
     "540626": {
       "cityName": "索县",
-      "unofficeCityName": "索",
-      "weatherId": 101140601
+      "unofficeCityName": "索县",
+      "weatherId": 101140606
     },
     "540627": {
       "cityName": "班戈县",
@@ -16799,7 +17093,7 @@ const data = {
     },
     "610102": {
       "cityName": "新城区",
-      "unofficeCityName": "新",
+      "unofficeCityName": "新城区",
       "weatherId": 101110101
     },
     "610103": {
@@ -16928,13 +17222,13 @@ const data = {
     },
     "610326": {
       "cityName": "眉县",
-      "unofficeCityName": "眉",
-      "weatherId": 101110901
+      "unofficeCityName": "眉县",
+      "weatherId": 101110908
     },
     "610327": {
       "cityName": "陇县",
-      "unofficeCityName": "陇",
-      "weatherId": 101110901
+      "unofficeCityName": "陇县",
+      "weatherId": 101110911
     },
     "610328": {
       "cityName": "千阳县",
@@ -16948,8 +17242,8 @@ const data = {
     },
     "610330": {
       "cityName": "凤县",
-      "unofficeCityName": "凤",
-      "weatherId": 101110901
+      "unofficeCityName": "凤县",
+      "weatherId": 101110910
     },
     "610331": {
       "cityName": "太白县",
@@ -16975,7 +17269,7 @@ const data = {
     },
     "610404": {
       "cityName": "渭城区",
-      "unofficeCityName": "渭",
+      "unofficeCityName": "渭城区",
       "weatherId": 101110200
     },
     "610422": {
@@ -16990,8 +17284,8 @@ const data = {
     },
     "610424": {
       "cityName": "乾县",
-      "unofficeCityName": "乾",
-      "weatherId": 101110200
+      "unofficeCityName": "乾县",
+      "weatherId": 101110207
     },
     "610425": {
       "cityName": "礼泉县",
@@ -17139,8 +17433,8 @@ const data = {
     },
     "610628": {
       "cityName": "富县",
-      "unofficeCityName": "富",
-      "weatherId": 101110300
+      "unofficeCityName": "富县",
+      "weatherId": 101110305
     },
     "610629": {
       "cityName": "洛川县",
@@ -17191,8 +17485,8 @@ const data = {
     },
     "610723": {
       "cityName": "洋县",
-      "unofficeCityName": "洋",
-      "weatherId": 101110801
+      "unofficeCityName": "洋县",
+      "weatherId": 101110805
     },
     "610724": {
       "cityName": "西乡县",
@@ -17201,8 +17495,8 @@ const data = {
     },
     "610725": {
       "cityName": "勉县",
-      "unofficeCityName": "勉",
-      "weatherId": 101110801
+      "unofficeCityName": "勉县",
+      "weatherId": 101110803
     },
     "610726": {
       "cityName": "宁强县",
@@ -17273,8 +17567,8 @@ const data = {
     },
     "610828": {
       "cityName": "佳县",
-      "unofficeCityName": "佳",
-      "weatherId": 101110401
+      "unofficeCityName": "佳县",
+      "weatherId": 101110404
     },
     "610829": {
       "cityName": "吴堡县",
@@ -17459,13 +17753,13 @@ const data = {
     },
     "622900": {
       "cityName": "临夏回族自治州",
-      "unofficeCityName": "临夏回族",
-      "weatherId": 101160101
+      "unofficeCityName": "临夏",
+      "weatherId": 101161101
     },
     "623000": {
       "cityName": "甘南藏族自治州",
-      "unofficeCityName": "甘南藏族",
-      "weatherId": 101160101
+      "unofficeCityName": "甘南",
+      "weatherId": 101050204
     }
   },
   "620100": {
@@ -17614,8 +17908,8 @@ const data = {
     },
     "620525": {
       "cityName": "张家川回族自治县",
-      "unofficeCityName": "张家川回族",
-      "weatherId": 101160901
+      "unofficeCityName": "张家川",
+      "weatherId": 101160907
     }
   },
   "620600": {
@@ -17641,8 +17935,8 @@ const data = {
     },
     "620623": {
       "cityName": "天祝藏族自治县",
-      "unofficeCityName": "天祝藏族",
-      "weatherId": 101160501
+      "unofficeCityName": "天祝",
+      "weatherId": 101160505
     }
   },
   "620700": {
@@ -17658,8 +17952,8 @@ const data = {
     },
     "620721": {
       "cityName": "肃南裕固族自治县",
-      "unofficeCityName": "肃南裕固族",
-      "weatherId": 101160701
+      "unofficeCityName": "肃南",
+      "weatherId": 101160702
     },
     "620722": {
       "cityName": "民乐县",
@@ -17747,12 +18041,12 @@ const data = {
     },
     "620923": {
       "cityName": "肃北蒙古族自治县",
-      "unofficeCityName": "肃北蒙古族",
-      "weatherId": 101160801
+      "unofficeCityName": "肃北",
+      "weatherId": 101160806
     },
     "620924": {
       "cityName": "阿克塞哈萨克族自治县",
-      "unofficeCityName": "阿克塞哈萨克族",
+      "unofficeCityName": "阿克塞",
       "weatherId": 101160801
     },
     "620981": {
@@ -17784,8 +18078,8 @@ const data = {
     },
     "621022": {
       "cityName": "环县",
-      "unofficeCityName": "环",
-      "weatherId": 101160401
+      "unofficeCityName": "环县",
+      "weatherId": 101160403
     },
     "621023": {
       "cityName": "华池县",
@@ -17804,8 +18098,8 @@ const data = {
     },
     "621026": {
       "cityName": "宁县",
-      "unofficeCityName": "宁",
-      "weatherId": 101160401
+      "unofficeCityName": "宁县",
+      "weatherId": 101160407
     },
     "621027": {
       "cityName": "镇原县",
@@ -17846,13 +18140,13 @@ const data = {
     },
     "621125": {
       "cityName": "漳县",
-      "unofficeCityName": "漳",
-      "weatherId": 101160201
+      "unofficeCityName": "漳县",
+      "weatherId": 101160206
     },
     "621126": {
       "cityName": "岷县",
-      "unofficeCityName": "岷",
-      "weatherId": 101160201
+      "unofficeCityName": "岷县",
+      "weatherId": 101160207
     }
   },
   "621200": {
@@ -17868,13 +18162,13 @@ const data = {
     },
     "621221": {
       "cityName": "成县",
-      "unofficeCityName": "成",
-      "weatherId": 101160101
+      "unofficeCityName": "成县",
+      "weatherId": 101161002
     },
     "621222": {
       "cityName": "文县",
-      "unofficeCityName": "文",
-      "weatherId": 101160101
+      "unofficeCityName": "文县",
+      "weatherId": 101161003
     },
     "621223": {
       "cityName": "宕昌县",
@@ -17883,8 +18177,8 @@ const data = {
     },
     "621224": {
       "cityName": "康县",
-      "unofficeCityName": "康",
-      "weatherId": 101160101
+      "unofficeCityName": "康县",
+      "weatherId": 101161005
     },
     "621225": {
       "cityName": "西和县",
@@ -17893,13 +18187,13 @@ const data = {
     },
     "621226": {
       "cityName": "礼县",
-      "unofficeCityName": "礼",
-      "weatherId": 101160101
+      "unofficeCityName": "礼县",
+      "weatherId": 101161007
     },
     "621227": {
       "cityName": "徽县",
-      "unofficeCityName": "徽",
-      "weatherId": 101160101
+      "unofficeCityName": "徽县",
+      "weatherId": 101161008
     },
     "621228": {
       "cityName": "两当县",
@@ -17941,12 +18235,12 @@ const data = {
     "622926": {
       "cityName": "东乡族自治县",
       "unofficeCityName": "东乡族",
-      "weatherId": 101160101
+      "weatherId": 101161101
     },
     "622927": {
       "cityName": "积石山保安族东乡族撒拉族自治县",
-      "unofficeCityName": "积石山保安族东乡族撒拉族",
-      "weatherId": 101160101
+      "unofficeCityName": "积石山保安族",
+      "weatherId": 101161101
     }
   },
   "623000": {
@@ -18004,33 +18298,33 @@ const data = {
     },
     "632200": {
       "cityName": "海北藏族自治州",
-      "unofficeCityName": "海北藏族",
-      "weatherId": 101150101
+      "unofficeCityName": "海北",
+      "weatherId": 101150801
     },
     "632300": {
       "cityName": "黄南藏族自治州",
-      "unofficeCityName": "黄南藏族",
-      "weatherId": 101150101
+      "unofficeCityName": "黄南",
+      "weatherId": 101150301
     },
     "632500": {
       "cityName": "海南藏族自治州",
-      "unofficeCityName": "海南藏族",
-      "weatherId": 101150101
+      "unofficeCityName": "海南",
+      "weatherId": 101150401
     },
     "632600": {
       "cityName": "果洛藏族自治州",
-      "unofficeCityName": "果洛藏族",
-      "weatherId": 101150101
+      "unofficeCityName": "果洛",
+      "weatherId": 101150501
     },
     "632700": {
       "cityName": "玉树藏族自治州",
-      "unofficeCityName": "玉树藏族",
-      "weatherId": 101150101
+      "unofficeCityName": "玉树",
+      "weatherId": 101150601
     },
     "632800": {
       "cityName": "海西蒙古族藏族自治州",
-      "unofficeCityName": "海西蒙古族藏族",
-      "weatherId": 101150101
+      "unofficeCityName": "海西",
+      "weatherId": 101150701
     }
   },
   "630100": {
@@ -18061,8 +18355,8 @@ const data = {
     },
     "630121": {
       "cityName": "大通回族土族自治县",
-      "unofficeCityName": "大通回族土族",
-      "weatherId": 101150101
+      "unofficeCityName": "大通",
+      "weatherId": 101150102
     },
     "630122": {
       "cityName": "湟中县",
@@ -18088,30 +18382,30 @@ const data = {
     },
     "630222": {
       "cityName": "民和回族土族自治县",
-      "unofficeCityName": "民和回族土族",
-      "weatherId": 101150201
+      "unofficeCityName": "民和",
+      "weatherId": 101150203
     },
     "630223": {
       "cityName": "互助土族自治县",
-      "unofficeCityName": "互助土族",
-      "weatherId": 101150201
+      "unofficeCityName": "互助",
+      "weatherId": 101150204
     },
     "630224": {
       "cityName": "化隆回族自治县",
-      "unofficeCityName": "化隆回族",
-      "weatherId": 101150201
+      "unofficeCityName": "化隆",
+      "weatherId": 101150205
     },
     "630225": {
       "cityName": "循化撒拉族自治县",
-      "unofficeCityName": "循化撒拉族",
-      "weatherId": 101150201
+      "unofficeCityName": "循化",
+      "weatherId": 101150206
     }
   },
   "632200": {
     "632221": {
       "cityName": "门源回族自治县",
-      "unofficeCityName": "门源回族",
-      "weatherId": 101150101
+      "unofficeCityName": "门源",
+      "weatherId": 101150802
     },
     "632222": {
       "cityName": "祁连县",
@@ -18133,7 +18427,7 @@ const data = {
     "632321": {
       "cityName": "同仁县",
       "unofficeCityName": "同仁",
-      "weatherId": 101150101
+      "weatherId": 101150301
     },
     "632322": {
       "cityName": "尖扎县",
@@ -18147,8 +18441,8 @@ const data = {
     },
     "632324": {
       "cityName": "河南蒙古族自治县",
-      "unofficeCityName": "河南蒙古族",
-      "weatherId": 101150101
+      "unofficeCityName": "河南",
+      "weatherId": 101150304
     }
   },
   "632500": {
@@ -18224,7 +18518,7 @@ const data = {
     "632723": {
       "cityName": "称多县",
       "unofficeCityName": "称多",
-      "weatherId": 101150101
+      "weatherId": 101150601
     },
     "632724": {
       "cityName": "治多县",
@@ -18474,8 +18768,8 @@ const data = {
     },
     "652300": {
       "cityName": "昌吉回族自治州",
-      "unofficeCityName": "昌吉回族",
-      "weatherId": 101130101
+      "unofficeCityName": "昌吉",
+      "weatherId": 101130401
     },
     "652700": {
       "cityName": "博尔塔拉蒙古自治州",
@@ -18524,7 +18818,7 @@ const data = {
     },
     "659000": {
       "cityName": "自治区直辖县级行政区划",
-      "unofficeCityName": "直辖级行政划",
+      "unofficeCityName": "直辖县级行政区划",
       "weatherId": 101130101
     }
   },
@@ -18546,7 +18840,7 @@ const data = {
     },
     "650104": {
       "cityName": "新市区",
-      "unofficeCityName": "新",
+      "unofficeCityName": "新区",
       "weatherId": 101130101
     },
     "650105": {
@@ -18670,7 +18964,7 @@ const data = {
     "652328": {
       "cityName": "木垒哈萨克自治县",
       "unofficeCityName": "木垒哈萨克",
-      "weatherId": 101130101
+      "weatherId": 101130401
     }
   },
   "652700": {
@@ -18723,8 +19017,8 @@ const data = {
     },
     "652826": {
       "cityName": "焉耆回族自治县",
-      "unofficeCityName": "焉耆回族",
-      "weatherId": 101130101
+      "unofficeCityName": "焉耆",
+      "weatherId": 101130607
     },
     "652827": {
       "cityName": "和静县",
@@ -18743,8 +19037,8 @@ const data = {
     },
     "652871": {
       "cityName": "库尔勒经济技术开发区",
-      "unofficeCityName": "库尔勒经济技术开发",
-      "weatherId": 101130101
+      "unofficeCityName": "库尔勒",
+      "weatherId": 101130601
     }
   },
   "652900": {
@@ -19269,27 +19563,27 @@ const data = {
   "710400": {
     "710301": {
       "cityName": "中区",
-      "unofficeCityName": "中",
+      "unofficeCityName": "中区",
       "weatherId": 101340102
     },
     "710302": {
       "cityName": "东区",
-      "unofficeCityName": "东",
+      "unofficeCityName": "东区",
       "weatherId": 101340102
     },
     "710303": {
       "cityName": "南区",
-      "unofficeCityName": "南",
+      "unofficeCityName": "南区",
       "weatherId": 101340102
     },
     "710304": {
       "cityName": "西区",
-      "unofficeCityName": "西",
+      "unofficeCityName": "西区",
       "weatherId": 101340102
     },
     "710305": {
       "cityName": "北区",
-      "unofficeCityName": "北",
+      "unofficeCityName": "北区",
       "weatherId": 101340102
     },
     "710306": {
@@ -19316,17 +19610,17 @@ const data = {
     },
     "710502": {
       "cityName": "东区",
-      "unofficeCityName": "东",
+      "unofficeCityName": "东区",
       "weatherId": 101340301
     },
     "710503": {
       "cityName": "南区",
-      "unofficeCityName": "南",
+      "unofficeCityName": "南区",
       "weatherId": 101340301
     },
     "710504": {
       "cityName": "北区",
-      "unofficeCityName": "北",
+      "unofficeCityName": "北区",
       "weatherId": 101340301
     },
     "710505": {
@@ -19343,12 +19637,12 @@ const data = {
   "710600": {
     "710601": {
       "cityName": "东区",
-      "unofficeCityName": "东",
+      "unofficeCityName": "东区",
       "weatherId": 101340602
     },
     "710602": {
       "cityName": "北区",
-      "unofficeCityName": "北",
+      "unofficeCityName": "北区",
       "weatherId": 101340602
     },
     "710603": {
@@ -19360,12 +19654,12 @@ const data = {
   "710700": {
     "710701": {
       "cityName": "东区",
-      "unofficeCityName": "东",
+      "unofficeCityName": "东区",
       "weatherId": 101340901
     },
     "710702": {
       "cityName": "西区",
-      "unofficeCityName": "西",
+      "unofficeCityName": "西区",
       "weatherId": 101340901
     }
   },
