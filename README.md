@@ -42,11 +42,12 @@ const cityId = {
 //ES6 Module
 import {cityId,cityIdRaw} form "weatherCityId"
 
-//Common Module
+//CommonJs Module
 const weatherCityId = reqriue("weatherCityId")
 weatherCityId.cityId
 weatherCityId.cityIdRaw
 
+//CommonJs Module
 const cityId = reqriue("weatherCityId").cityId
 const cityIdRaw = reqriue("weatherCityId").cityIdRaw
 
