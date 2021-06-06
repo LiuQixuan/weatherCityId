@@ -17,7 +17,7 @@
 
 ## 标准
 ```js
-const data = {
+const cityId = {
   // ...
   "330000": {
       "330100": {
@@ -40,16 +40,21 @@ const data = {
 
 ```js
 //ES6 Module
-import weatherCityId form "weatherCityId"
+import {cityId,cityIdRaw} form "weatherCityId"
+
 //Common Module
 const weatherCityId = reqriue("weatherCityId")
+weatherCityId.cityId
+weatherCityId.cityIdRaw
 
+const cityId = reqriue("weatherCityId").cityId
+const cityIdRaw = reqriue("weatherCityId").cityIdRaw
 
-console.log(weatherCity["86"]["110000"])
+console.log(cityId["86"]["110000"])
 
-for (const key in weatherCity) {
-  for (const index in weatherCity[key]) {
-    let cityItem = weatherCity[key][index]
+for (const key in cityId) {
+  for (const index in cityId[key]) {
+    let cityItem = cityId[key][index]
     console.log(cityItem.cityName, cityItem.unofficialCityName, cityItem.weatherId)
   }
 }
