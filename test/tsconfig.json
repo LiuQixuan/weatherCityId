@@ -5,7 +5,7 @@
  * Created Date: 2021-02-24  2:43:21
  * Author: LiuQixuan(liuqixuan@hotmail.com)
  * -----
- * Last Modified:  2021-04-25  4:02:31
+ * Last Modified:  2021-06-06  4:28:33
  * Modified By: LiuQixuan
  * -----
  * Copyright 2020 - 2021 AIUSoft by LiuQixuan
@@ -41,7 +41,7 @@
     // "downlevelIteration": true,            /* Provide full support for iterables in 'for-of', spread, and destructuring when targeting 'ES5' or 'ES3'. */
     // "isolatedModules": true,               /* Transpile each file as a separate module (similar to 'ts.transpileModule'). */
     /* Strict Type-Checking Options */
-    "strict": true,                           /* Enable all strict type-checking options. */
+    // "strict": true,                           /* Enable all strict type-checking options. */
     // "noImplicitAny": true,                 /* Raise error on expressions and declarations with an implied 'any' type. */
     // "strictNullChecks": true,              /* Enable strict null checks. */
     // "strictFunctionTypes": true,           /* Enable strict checking of function types. */

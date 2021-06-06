@@ -1,6 +1,12 @@
 # 中国行政区域数据+天气api的城市编号/China administrative area data + weather api city code
 
-# 中国行政区域数据+天气api的城市编号
+- [中国行政区域数据+天气api的城市编号/China administrative area data + weather api city code](#中国行政区域数据天气api的城市编号china-administrative-area-data--weather-api-city-code)
+  - [简介](#简介)
+  - [标准](#标准)
+  - [用法](#用法)
+  - [构建方法](#构建方法)
+  - [注意](#注意)
+  - [历史版本](#历史版本)
 
 ## 简介
 
@@ -16,7 +22,7 @@ const data = {
   "330000": {
       "330100": {
         "cityName": "杭州市",
-        "unofficeCityName": "杭州",
+        "unofficialCityName": "杭州",
         "weatherId": 101210101
       },
       // ...
@@ -27,7 +33,7 @@ const data = {
 |属性名|类型|意义|
 |---|---|---|
 |cityName|string|城市名|
-|unofficeCityName|string|城市名|
+|unofficialCityName|string|城市名|
 |weatherId|number|对应中国天气网api中的area|
 
 ## 用法
@@ -44,7 +50,7 @@ console.log(weatherCity["86"]["110000"])
 for (const key in weatherCity) {
   for (const index in weatherCity[key]) {
     let cityItem = weatherCity[key][index]
-    console.log(cityItem.cityName, cityItem.unofficeCityName, cityItem.weatherId)
+    console.log(cityItem.cityName, cityItem.unofficialCityName, cityItem.weatherId)
   }
 }
 
@@ -58,16 +64,15 @@ for (const key in weatherCity) {
 2. pretreat阶段
    >pretreat文件夹里是对相关数据的预处理脚本,主要为了筛选重复数据,筛选城市名中带有少数民族名称,及相关数据的统计,格式转换
 3. build阶段
-   >src文件夹的`main.js`为主要功能脚本<br/>
+   >src文件夹的`build.js`为主要功能脚本<br/>
    >`data.js`为原始行政区数据<br/>
    >`cityNameWeatherId.js` 为weatherCityId相关数据<br/>
    >cityNameWeatherIdPolyfill.js 为weatherCityId重复名称以及例外数据<br/>
    >`minoritySet.js`为少数民族名称数据
 4. 人工审查阶段
-   >配合test文件夹做测试,然后执行 `node ./src/main.js`生成数据到output,文件名为index.json<br/>
+   >配合test文件夹做测试,然后执行 `node ./src/build.js`生成数据到dist,文件名为index.json<br/>
    >人工粗略审查
 5. 发布
-   > 将`index.json`添加exports相关代码,格式化后修改名称为`index.js`,剪切到根目录,及完成所有构建流程
 
 ## 注意
 
@@ -75,7 +80,7 @@ for (const key in weatherCity) {
 
 >由于地名重名等原因,即使做了漏洞修补也可能造成极少数小城市对应的城市编码错误,如发现请issue反馈
 
->由于少数民族地区城市名称极其复杂所以少数民族地区的unofficeCityName仅供参考,实际以官方行政区名称为准
+>由于少数民族地区城市名称极其复杂所以少数民族地区的unofficialCityName仅供参考,实际以官方行政区名称为准
 
 >港澳地区面积过小,特别行政区内的大多数市区可能使用香港,澳门的城市编码代替
 
@@ -86,4 +91,5 @@ for (const key in weatherCity) {
 
 -  ✅v0.0.1 发布weatherCityId包,实现基本功能
 -  ✅v0.0.2 修复部分bug,修复单字城市名称,修复大部分少数民族城市名的简写形式
+-  ✅v0.0.3 重构项目构建脚本`src/build.js`,一键重新构建
 -  🟩v0.0.X 添加更多支持,优化算法,修复潜在BUG

@@ -217,12 +217,12 @@
         "affectsGlobalScope": true
       },
       "../index.d.ts": {
-        "version": "8f08148138c57ac0d8c939e9313dc72c538ff399d66ea8ef271caab29d2bed72",
-        "signature": "8f08148138c57ac0d8c939e9313dc72c538ff399d66ea8ef271caab29d2bed72",
+        "version": "9270443dd7314bdff831e9306726872df07458380be1f02739ee7cf448dfedbf",
+        "signature": "9270443dd7314bdff831e9306726872df07458380be1f02739ee7cf448dfedbf",
         "affectsGlobalScope": false
       },
       "./test.ts": {
-        "version": "548ed0bcb422ba8c62d77223088ee19378a7be10aad384847feec85b4490ae68",
+        "version": "efe4c365fe88e2956fe869159b268c253c42e70e6eae1be4b4cafbb22d6205e9",
         "signature": "8860ab7d0dfaadda5a136e010fa1a13c839c655e85b02924c2effb42cf25941e",
         "affectsGlobalScope": false
       }
@@ -241,7 +241,6 @@
       "outDir": "./",
       "rootDir": "./",
       "removeComments": true,
-      "strict": true,
       "esModuleInterop": true,
       "skipLibCheck": true,
       "forceConsistentCasingInFileNames": true,

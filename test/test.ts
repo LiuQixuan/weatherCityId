@@ -1,14 +1,14 @@
-import weatherCityId from "../index";
+import {cityId} from "../index";
 
-let a = weatherCityId["86"]["110000"]
+let a = cityId["86"]["110000"]
 console.log(a.cityName)
 
-console.log(weatherCityId["86"]["110000"])
+console.log(cityId["86"]["110000"])
 
-for (const key in weatherCityId) {
-  for (const index in weatherCityId[key]) {
-    let cityItem = weatherCityId[key][index]
-    console.log(cityItem.cityName, cityItem.unofficeCityName, cityItem.weatherId)
+for (const key in cityId) {
+  for (const index in cityId[key]) {
+    let cityItem = cityId[key][index]
+    console.log(cityItem.cityName, cityItem.unofficialCityName, cityItem.weatherId)
     break
   }
   break

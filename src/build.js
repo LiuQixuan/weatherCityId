@@ -5,7 +5,7 @@
  * Created Date: 2021-04-24  8:56:05
  * Author: LiuQixuan(liuqixuan@hotmail.com)
  * -----
- * Last Modified:  2021-04-27  5:33:43
+ * Last Modified:  2021-06-06  8:55:56
  * Modified By: LiuQixuan
  * -----
  * Copyright 2020 - 2021 AIUSoft by LiuQixuan
@@ -15,9 +15,11 @@ const path = require("path")
 let data = require("./data")
 const cityNameAndCityWeatherId =require("./cityNameWeatherId")
 const cityNameAndCityWeatherIdPloyFill = require("./cityNameWeatherIdployfill")
-
-
+const fs = require("fs")
+const logger = require("./logger.js")
 const minority = require("./minoritySet")
+const jsBeautify = require('js-beautify')
+
 
 function getUnofficialName(fullName){
   let result = fullName
@@ -39,7 +41,6 @@ function getUnofficialName(fullName){
   return result
 }
 
-console.log(getUnofficialName("湖南湘潭高新技术产业园区"));
 
 function isIncludeKeyWord (fullName,keyWord) {
   let result = false
@@ -57,19 +58,19 @@ function filterData(data){
       let weatherId = ""
       const key2Copy = key2
       const cityName = data[key1][key2]
-      let unofficeCityName = getUnofficialName(cityName)
-      // console.log("cityName", cityName,unofficeCityName)
-      if (cityNameAndCityWeatherId[unofficeCityName] === undefined){
-        // console.log("adptor-Before:",unofficeCityName,key2)
+      let unofficialCityName = getUnofficialName(cityName)
+      // console.log("cityName", cityName,unofficialCityName)
+      if (cityNameAndCityWeatherId[unofficialCityName] === undefined){
+        // console.log("adptor-Before:",unofficialCityName,key2)
         if (key2.length > 6) { key2 = key2.slice(0, 6)}
         if (data[key2.slice(0, -4) + "0000"] === undefined || data[key2.slice(0, -4) + "0000"][key2.slice(0, -2) + "00"] === undefined){
           const tmpItem = data["86"][key2.slice(0, -2) + "00"]
           if(typeof tmpItem === "string"){
             worryArr.push([key1,key2])
-            data[key1][key2] = { cityName, unofficeCityName, weatherId: "000000000" }
+            data[key1][key2] = { cityName, unofficialCityName, weatherId: "000000000" }
           }else{
-            unofficeCityName = tmpItem.unofficeCityName
-            data[key1][key2] = { cityName, unofficeCityName, weatherId: tmpItem.weatherId}
+            unofficialCityName = tmpItem.unofficialCityName
+            data[key1][key2] = { cityName, unofficialCityName, weatherId: tmpItem.weatherId}
           }
         }else{
           const tmpItem = data[key2.slice(0, -4) + "0000"][key2.slice(0, -2) + "00"]
@@ -79,8 +80,8 @@ function filterData(data){
             } else if (data[key2.slice(0, -4) + "0000"][Object.keys(data[key2.slice(0, -4) + "0000"])[0]].weatherId !== undefined){
               weatherId = data[key2.slice(0, -4) + "0000"][Object.keys(data[key2.slice(0, -4) + "0000"])[0]].weatherId
             } else if (cityName === "市辖区"){
-              unofficeCityName = data["86"][key2.slice(0, -4) + "0000"].unofficeCityName
-              weatherId = cityNameAndCityWeatherId[unofficeCityName]
+              unofficialCityName = data["86"][key2.slice(0, -4) + "0000"].unofficialCityName
+              weatherId = cityNameAndCityWeatherId[unofficialCityName]
             } else {
               weatherId = "000000000"
             }
@@ -90,17 +91,17 @@ function filterData(data){
           } else{
             weatherId = tmpItem.weatherId
           }
-          if (unofficeCityName === "辖") {
-            unofficeCityName = tmpItem.unofficeCityName
+          if (unofficialCityName === "辖") {
+            unofficialCityName = tmpItem.unofficialCityName
           }
-          if (unofficeCityName === "" && (cityName === "城区" || cityName === "县")) {
-            unofficeCityName = data[key2.slice(0, -2) + "00"][Object.keys(data[key2.slice(0, -2) + "00"])[0]].unofficeCityName
+          if (unofficialCityName === "" && (cityName === "城区" || cityName === "县")) {
+            unofficialCityName = data[key2.slice(0, -2) + "00"][Object.keys(data[key2.slice(0, -2) + "00"])[0]].unofficialCityName
           }
-          data[key1][key2Copy] = { cityName, unofficeCityName, weatherId}
+          data[key1][key2Copy] = { cityName, unofficialCityName, weatherId}
         }
       }else{
-        weatherId = cityNameAndCityWeatherId[unofficeCityName]
-        data[key1][key2Copy] = { cityName, unofficeCityName, weatherId}
+        weatherId = cityNameAndCityWeatherId[unofficialCityName]
+        data[key1][key2Copy] = { cityName, unofficialCityName, weatherId}
       }
     }
   }
@@ -109,9 +110,9 @@ function filterData(data){
   })
   for (let key1 in data) {
     for (let key2 in data[key1]) {
-      if (Object.keys(cityNameAndCityWeatherIdPloyFill).includes(data[key1][key2].unofficeCityName)){
-        data[key1][key2].weatherId = cityNameAndCityWeatherIdPloyFill[data[key1][key2].unofficeCityName]
-        delete (cityNameAndCityWeatherIdPloyFill[data[key1][key2].unofficeCityName])
+      if (Object.keys(cityNameAndCityWeatherIdPloyFill).includes(data[key1][key2].unofficialCityName)){
+        data[key1][key2].weatherId = cityNameAndCityWeatherIdPloyFill[data[key1][key2].unofficialCityName]
+        delete (cityNameAndCityWeatherIdPloyFill[data[key1][key2].unofficialCityName])
       }
     }
   }
@@ -120,24 +121,31 @@ function filterData(data){
 
 
 function writeFiles(data,fileName=`data-${Math.random()*1000}.json`){
-  const fs = require("fs")
-  fs.open(fileName,'w',(err,fd)=>{
-    if(!err){
-      fs.write(fd, JSON.stringify(data),callback=()=>{})
-    }
-  })
+  return fs.promises.open(fileName, 'w').then(fileHandle=>fileHandle.write(data))
+}
+
+function cleanDir(dirPath){
+  return fs.promises.readdir(dirPath).then((files) => {
+    files.forEach(file=>{
+      let filePath = path.join(dirPath, file)
+      if (fs.statSync(filePath).isDirectory()){
+        fs.readdirSync(filePath,{maxRetries:3,recursive:true,retryDelay:500})
+      }else{
+        fs.rmSync(filePath,{ maxRetries: 3, recursive: true, retryDelay: 500 })
+      }
+    })
+  }).then(() => logger(`clear dir '${dirPath}' complete.`,'cleanDir')).catch(e => {logger(e, 'cleanDir', 'error'); throw e })
 }
 
 
-
-function main(){
-  filterData(data)
-  writeFiles(data,path.join(__dirname,"../output/index.json"))
-  writeFiles(worryArr, path.join(__dirname,'../output/data-error-log.log'))
+async function build(){
+    await cleanDir(path.join(__dirname,"../dist")).then(()=>console.log('clean'))
+    filterData(data)
+    const strArr = ['const data = ','\nmodule.exports = data']
+    return Promise.all([writeFiles(strArr.join(JSON.stringify(data)), path.join(__dirname, "../dist/index.min.js")),
+                        writeFiles(jsBeautify(strArr.join(JSON.stringify(data)), { indent_size: 4}), path.join(__dirname, "../dist/index.js")),
+                        writeFiles(worryArr.join('\n'), path.join(__dirname, '../dist/data-error-log.log'))])
 }
 
 
-
-main()
-
-console.log("Success!")
+build().then(() => { logger("build weatherCityId success!", 'build') }).catch(e=>logger(e,'build','Error'))

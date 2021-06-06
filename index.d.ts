@@ -1,3 +1,4 @@
-declare  const data: { [key: string]: { [key: string]: { cityName: string, unofficeCityName:string, weatherId:number}}};
+declare const cityId: { [key: string]: { [key: string]: { cityName: string, unofficialCityName:string, weatherId:number}}};
+declare const cityIdRaw: { [key: string]: { [key: string]: { cityName: string, unofficialCityName:string, weatherId:number}}};
 
-export default data;
+export {cityId,cityIdRaw};
