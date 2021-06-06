@@ -51,6 +51,8 @@ weatherCityId.cityIdRaw
 const cityId = reqriue("weatherCityId").cityId
 const cityIdRaw = reqriue("weatherCityId").cityIdRaw
 
+
+//useage
 console.log(cityId["86"]["110000"])
 
 for (const key in cityId) {
@@ -76,7 +78,7 @@ for (const key in cityId) {
    >cityNameWeatherIdPolyfill.js 为weatherCityId重复名称以及例外数据<br/>
    >`minoritySet.js`为少数民族名称数据
 4. 人工审查阶段
-   >配合test文件夹做测试,然后执行 `node ./src/build.js`生成数据到dist,文件名为index.json<br/>
+   >配合test文件夹做测试,然后执行 `node ./src/build.js`生成数据到dist,文件名为index.js<br/>
    >人工粗略审查
 5. 发布
 
